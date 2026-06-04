@@ -1,0 +1,5137 @@
+{
+  "chemmaruthy": {
+    "panchayat_raw": "Chemmaruthy",
+    "block": "Varkala",
+    "district": "Thiruvananthapuram"
+  },
+  "edava": {
+    "panchayat_raw": "Edava",
+    "block": "Varkala",
+    "district": "Thiruvananthapuram"
+  },
+  "elakamon": {
+    "panchayat_raw": "Elakamon",
+    "block": "Varkala",
+    "district": "Thiruvananthapuram"
+  },
+  "manamboor": {
+    "panchayat_raw": "Manamboor",
+    "block": "Varkala",
+    "district": "Thiruvananthapuram"
+  },
+  "ottoor": {
+    "panchayat_raw": "Ottoor",
+    "block": "Varkala",
+    "district": "Thiruvananthapuram"
+  },
+  "cherunniyoor": {
+    "panchayat_raw": "Cherunniyoor",
+    "block": "Varkala",
+    "district": "Thiruvananthapuram"
+  },
+  "vettoor": {
+    "panchayat_raw": "Vettoor",
+    "block": "Varkala",
+    "district": "Thiruvananthapuram"
+  },
+  "kilimanoor": {
+    "panchayat_raw": "Kilimanoor",
+    "block": "Kilimanoor",
+    "district": "Thiruvananthapuram"
+  },
+  "pazhayakunnumel": {
+    "panchayat_raw": "Pazhayakunnumel",
+    "block": "Kilimanoor",
+    "district": "Thiruvananthapuram"
+  },
+  "karavaram": {
+    "panchayat_raw": "Karavaram",
+    "block": "Kilimanoor",
+    "district": "Thiruvananthapuram"
+  },
+  "madavoor": {
+    "panchayat_raw": "Madavoor",
+    "block": "Koduvally",
+    "district": "Kozhikkode"
+  },
+  "pallickal": {
+    "panchayat_raw": "Pallickal",
+    "block": "Parakkode",
+    "district": "Pathanamthitta"
+  },
+  "nagaroor": {
+    "panchayat_raw": "Nagaroor",
+    "block": "Kilimanoor",
+    "district": "Thiruvananthapuram"
+  },
+  "navaikulam": {
+    "panchayat_raw": "Navaikulam",
+    "block": "Kilimanoor",
+    "district": "Thiruvananthapuram"
+  },
+  "pulimath": {
+    "panchayat_raw": "Pulimath",
+    "block": "Kilimanoor",
+    "district": "Thiruvananthapuram"
+  },
+  "anchuthengu": {
+    "panchayat_raw": "Anchuthengu",
+    "block": "Chirayinkeezhu",
+    "district": "Thiruvananthapuram"
+  },
+  "vakkom": {
+    "panchayat_raw": "Vakkom",
+    "block": "Chirayinkeezhu",
+    "district": "Thiruvananthapuram"
+  },
+  "chirayinkeezhu": {
+    "panchayat_raw": "Chirayinkeezhu",
+    "block": "Chirayinkeezhu",
+    "district": "Thiruvananthapuram"
+  },
+  "kizhuvilam": {
+    "panchayat_raw": "Kizhuvilam",
+    "block": "Chirayinkeezhu",
+    "district": "Thiruvananthapuram"
+  },
+  "mudakkal": {
+    "panchayat_raw": "Mudakkal",
+    "block": "Chirayinkeezhu",
+    "district": "Thiruvananthapuram"
+  },
+  "kadakkavoor": {
+    "panchayat_raw": "Kadakkavoor",
+    "block": "Chirayinkeezhu",
+    "district": "Thiruvananthapuram"
+  },
+  "kallara": {
+    "panchayat_raw": "Kallara",
+    "block": "Kaduthuruthy",
+    "district": "Kottayam"
+  },
+  "nellanad": {
+    "panchayat_raw": "Nellanad",
+    "block": "Vamanapuram",
+    "district": "Thiruvananthapuram"
+  },
+  "pullampara": {
+    "panchayat_raw": "Pullampara",
+    "block": "Vamanapuram",
+    "district": "Thiruvananthapuram"
+  },
+  "vamanapuram": {
+    "panchayat_raw": "Vamanapuram",
+    "block": "Vamanapuram",
+    "district": "Thiruvananthapuram"
+  },
+  "pangode": {
+    "panchayat_raw": "Pangode",
+    "block": "Vamanapuram",
+    "district": "Thiruvananthapuram"
+  },
+  "nanniyode": {
+    "panchayat_raw": "Nanniyode",
+    "block": "Vamanapuram",
+    "district": "Thiruvananthapuram"
+  },
+  "peringammala": {
+    "panchayat_raw": "Peringammala",
+    "block": "Vamanapuram",
+    "district": "Thiruvananthapuram"
+  },
+  "manickal": {
+    "panchayat_raw": "Manickal",
+    "block": "Vamanapuram",
+    "district": "Thiruvananthapuram"
+  },
+  "aryanad": {
+    "panchayat_raw": "Aryanad",
+    "block": "Vellanad",
+    "district": "Thiruvananthapuram"
+  },
+  "poovachal": {
+    "panchayat_raw": "Poovachal",
+    "block": "Vellanad",
+    "district": "Thiruvananthapuram"
+  },
+  "vellanad": {
+    "panchayat_raw": "Vellanad",
+    "block": "Vellanad",
+    "district": "Thiruvananthapuram"
+  },
+  "vithura": {
+    "panchayat_raw": "Vithura",
+    "block": "Vellanad",
+    "district": "Thiruvananthapuram"
+  },
+  "uzhamalakkal": {
+    "panchayat_raw": "Uzhamalakkal",
+    "block": "Vellanad",
+    "district": "Thiruvananthapuram"
+  },
+  "kuttichal": {
+    "panchayat_raw": "Kuttichal",
+    "block": "Vellanad",
+    "district": "Thiruvananthapuram"
+  },
+  "tholicode": {
+    "panchayat_raw": "Tholicode",
+    "block": "Vellanad",
+    "district": "Thiruvananthapuram"
+  },
+  "kattakada": {
+    "panchayat_raw": "Kattakada",
+    "block": "Vellanad",
+    "district": "Thiruvananthapuram"
+  },
+  "anad": {
+    "panchayat_raw": "Anad",
+    "block": "Nedumangad",
+    "district": "Thiruvananthapuram"
+  },
+  "aruvikkara": {
+    "panchayat_raw": "Aruvikkara",
+    "block": "Nedumangad",
+    "district": "Thiruvananthapuram"
+  },
+  "panavoor": {
+    "panchayat_raw": "Panavoor",
+    "block": "Nedumangad",
+    "district": "Thiruvananthapuram"
+  },
+  "karakulam": {
+    "panchayat_raw": "Karakulam",
+    "block": "Nedumangad",
+    "district": "Thiruvananthapuram"
+  },
+  "vembayam": {
+    "panchayat_raw": "Vembayam",
+    "block": "Nedumangad",
+    "district": "Thiruvananthapuram"
+  },
+  "andoorkonam": {
+    "panchayat_raw": "Andoorkonam",
+    "block": "Pothencode",
+    "district": "Thiruvananthapuram"
+  },
+  "kadinamkulam": {
+    "panchayat_raw": "Kadinamkulam",
+    "block": "Pothencode",
+    "district": "Thiruvananthapuram"
+  },
+  "mangalapuram": {
+    "panchayat_raw": "Mangalapuram",
+    "block": "Pothencode",
+    "district": "Thiruvananthapuram"
+  },
+  "pothencode": {
+    "panchayat_raw": "Pothencode",
+    "block": "Pothencode",
+    "district": "Thiruvananthapuram"
+  },
+  "azhoor": {
+    "panchayat_raw": "Azhoor",
+    "block": "Pothencode",
+    "district": "Thiruvananthapuram"
+  },
+  "balaramapuram": {
+    "panchayat_raw": "Balaramapuram",
+    "block": "Nemom",
+    "district": "Thiruvananthapuram"
+  },
+  "pallichal": {
+    "panchayat_raw": "Pallichal",
+    "block": "Nemom",
+    "district": "Thiruvananthapuram"
+  },
+  "maranalloor": {
+    "panchayat_raw": "Maranalloor",
+    "block": "Nemom",
+    "district": "Thiruvananthapuram"
+  },
+  "malayinkeezh": {
+    "panchayat_raw": "Malayinkeezh",
+    "block": "Nemom",
+    "district": "Thiruvananthapuram"
+  },
+  "vilappil": {
+    "panchayat_raw": "Vilappil",
+    "block": "Nemom",
+    "district": "Thiruvananthapuram"
+  },
+  "vilavoorkal": {
+    "panchayat_raw": "Vilavoorkal",
+    "block": "Nemom",
+    "district": "Thiruvananthapuram"
+  },
+  "kalliyoor": {
+    "panchayat_raw": "Kalliyoor",
+    "block": "Nemom",
+    "district": "Thiruvananthapuram"
+  },
+  "perumkadavila": {
+    "panchayat_raw": "Perumkadavila",
+    "block": "Perumkadavila",
+    "district": "Thiruvananthapuram"
+  },
+  "kollayil": {
+    "panchayat_raw": "Kollayil",
+    "block": "Perumkadavila",
+    "district": "Thiruvananthapuram"
+  },
+  "ottasekharamangalam": {
+    "panchayat_raw": "Ottasekharamangalam",
+    "block": "Perumkadavila",
+    "district": "Thiruvananthapuram"
+  },
+  "aryancode": {
+    "panchayat_raw": "Aryancode",
+    "block": "Perumkadavila",
+    "district": "Thiruvananthapuram"
+  },
+  "kallikkadu": {
+    "panchayat_raw": "Kallikkadu",
+    "block": "Perumkadavila",
+    "district": "Thiruvananthapuram"
+  },
+  "kunnathukal": {
+    "panchayat_raw": "Kunnathukal",
+    "block": "Perumkadavila",
+    "district": "Thiruvananthapuram"
+  },
+  "vellarada": {
+    "panchayat_raw": "Vellarada",
+    "block": "Perumkadavila",
+    "district": "Thiruvananthapuram"
+  },
+  "amboori": {
+    "panchayat_raw": "Amboori",
+    "block": "Perumkadavila",
+    "district": "Thiruvananthapuram"
+  },
+  "athiyannoor": {
+    "panchayat_raw": "Athiyannoor",
+    "block": "Athiyannoor",
+    "district": "Thiruvananthapuram"
+  },
+  "kanjiramkulam": {
+    "panchayat_raw": "Kanjiramkulam",
+    "block": "Athiyannoor",
+    "district": "Thiruvananthapuram"
+  },
+  "karumkulam": {
+    "panchayat_raw": "Karumkulam",
+    "block": "Athiyannoor",
+    "district": "Thiruvananthapuram"
+  },
+  "kottukal": {
+    "panchayat_raw": "Kottukal",
+    "block": "Athiyannoor",
+    "district": "Thiruvananthapuram"
+  },
+  "venganoor": {
+    "panchayat_raw": "Venganoor",
+    "block": "Athiyannoor",
+    "district": "Thiruvananthapuram"
+  },
+  "chenkal": {
+    "panchayat_raw": "Chenkal",
+    "block": "Parassala",
+    "district": "Thiruvananthapuram"
+  },
+  "karode": {
+    "panchayat_raw": "Karode",
+    "block": "Parassala",
+    "district": "Thiruvananthapuram"
+  },
+  "kulathoor": {
+    "panchayat_raw": "Kulathoor",
+    "block": "Parassala",
+    "district": "Thiruvananthapuram"
+  },
+  "parassala": {
+    "panchayat_raw": "Parassala",
+    "block": "Parassala",
+    "district": "Thiruvananthapuram"
+  },
+  "thirupuram": {
+    "panchayat_raw": "Thirupuram",
+    "block": "Parassala",
+    "district": "Thiruvananthapuram"
+  },
+  "poovar": {
+    "panchayat_raw": "Poovar",
+    "block": "Parassala",
+    "district": "Thiruvananthapuram"
+  },
+  "oachira": {
+    "panchayat_raw": "Oachira",
+    "block": "Oachira",
+    "district": "Kollam"
+  },
+  "kulasekharapuram": {
+    "panchayat_raw": "Kulasekharapuram",
+    "block": "Oachira",
+    "district": "Kollam"
+  },
+  "clappana": {
+    "panchayat_raw": "Clappana",
+    "block": "Oachira",
+    "district": "Kollam"
+  },
+  "thazhava": {
+    "panchayat_raw": "Thazhava",
+    "block": "Oachira",
+    "district": "Kollam"
+  },
+  "alappad": {
+    "panchayat_raw": "Alappad",
+    "block": "Oachira",
+    "district": "Kollam"
+  },
+  "thodiyoor": {
+    "panchayat_raw": "Thodiyoor",
+    "block": "Oachira",
+    "district": "Kollam"
+  },
+  "sasthamcotta": {
+    "panchayat_raw": "Sasthamcotta",
+    "block": "Sasthamcotta",
+    "district": "Kollam"
+  },
+  "west kallada": {
+    "panchayat_raw": "West Kallada",
+    "block": "Sasthamcotta",
+    "district": "Kollam"
+  },
+  "sooranad south": {
+    "panchayat_raw": "Sooranad South",
+    "block": "Sasthamcotta",
+    "district": "Kollam"
+  },
+  "poruvazhy": {
+    "panchayat_raw": "Poruvazhy",
+    "block": "Sasthamcotta",
+    "district": "Kollam"
+  },
+  "kunnathoor": {
+    "panchayat_raw": "Kunnathoor",
+    "block": "Sasthamcotta",
+    "district": "Kollam"
+  },
+  "sooranad north": {
+    "panchayat_raw": "Sooranad North",
+    "block": "Sasthamcotta",
+    "district": "Kollam"
+  },
+  "mynagappally": {
+    "panchayat_raw": "Mynagappally",
+    "block": "Sasthamcotta",
+    "district": "Kollam"
+  },
+  "ummannoor": {
+    "panchayat_raw": "Ummannoor",
+    "block": "Vettikavala",
+    "district": "Kollam"
+  },
+  "vettikavala": {
+    "panchayat_raw": "Vettikavala",
+    "block": "Vettikavala",
+    "district": "Kollam"
+  },
+  "melila": {
+    "panchayat_raw": "Melila",
+    "block": "Vettikavala",
+    "district": "Kollam"
+  },
+  "mylom": {
+    "panchayat_raw": "Mylom",
+    "block": "Vettikavala",
+    "district": "Kollam"
+  },
+  "kulakkada": {
+    "panchayat_raw": "Kulakkada",
+    "block": "Vettikavala",
+    "district": "Kollam"
+  },
+  "pavithreswaram": {
+    "panchayat_raw": "Pavithreswaram",
+    "block": "Vettikavala",
+    "district": "Kollam"
+  },
+  "vilakkudy": {
+    "panchayat_raw": "Vilakkudy",
+    "block": "Pathanapuram",
+    "district": "Kollam"
+  },
+  "thalavoor": {
+    "panchayat_raw": "Thalavoor",
+    "block": "Pathanapuram",
+    "district": "Kollam"
+  },
+  "piravanthoor": {
+    "panchayat_raw": "Piravanthoor",
+    "block": "Pathanapuram",
+    "district": "Kollam"
+  },
+  "pattazhi vadakkekara": {
+    "panchayat_raw": "Pattazhi Vadakkekara",
+    "block": "Pathanapuram",
+    "district": "Kollam"
+  },
+  "pattazhi": {
+    "panchayat_raw": "Pattazhi",
+    "block": "Pathanapuram",
+    "district": "Kollam"
+  },
+  "pathanapuram": {
+    "panchayat_raw": "Pathanapuram",
+    "block": "Pathanapuram",
+    "district": "Kollam"
+  },
+  "kulathupuzha": {
+    "panchayat_raw": "Kulathupuzha",
+    "block": "Anchal",
+    "district": "Kollam"
+  },
+  "yeroor": {
+    "panchayat_raw": "Yeroor",
+    "block": "Anchal",
+    "district": "Kollam"
+  },
+  "alayamon": {
+    "panchayat_raw": "Alayamon",
+    "block": "Anchal",
+    "district": "Kollam"
+  },
+  "anchal": {
+    "panchayat_raw": "Anchal",
+    "block": "Anchal",
+    "district": "Kollam"
+  },
+  "edamulackal": {
+    "panchayat_raw": "Edamulackal",
+    "block": "Anchal",
+    "district": "Kollam"
+  },
+  "karavaloor": {
+    "panchayat_raw": "Karavaloor",
+    "block": "Anchal",
+    "district": "Kollam"
+  },
+  "thenmala": {
+    "panchayat_raw": "Thenmala",
+    "block": "Anchal",
+    "district": "Kollam"
+  },
+  "aryankavu": {
+    "panchayat_raw": "Aryankavu",
+    "block": "Anchal",
+    "district": "Kollam"
+  },
+  "veliyam": {
+    "panchayat_raw": "Veliyam",
+    "block": "Kottarakara",
+    "district": "Kollam"
+  },
+  "pooyappally": {
+    "panchayat_raw": "Pooyappally",
+    "block": "Kottarakara",
+    "district": "Kollam"
+  },
+  "kareepra": {
+    "panchayat_raw": "Kareepra",
+    "block": "Kottarakara",
+    "district": "Kollam"
+  },
+  "ezhukone": {
+    "panchayat_raw": "Ezhukone",
+    "block": "Kottarakara",
+    "district": "Kollam"
+  },
+  "neduvathoor": {
+    "panchayat_raw": "Neduvathoor",
+    "block": "Kottarakara",
+    "district": "Kollam"
+  },
+  "perinad": {
+    "panchayat_raw": "Perinad",
+    "block": "Chittumala",
+    "district": "Kollam"
+  },
+  "kundara": {
+    "panchayat_raw": "Kundara",
+    "block": "Chittumala",
+    "district": "Kollam"
+  },
+  "east kallada": {
+    "panchayat_raw": "East Kallada",
+    "block": "Chittumala",
+    "district": "Kollam"
+  },
+  "perayam": {
+    "panchayat_raw": "Perayam",
+    "block": "Chittumala",
+    "district": "Kollam"
+  },
+  "munroethuruth": {
+    "panchayat_raw": "Munroethuruth",
+    "block": "Chittumala",
+    "district": "Kollam"
+  },
+  "panayam": {
+    "panchayat_raw": "Panayam",
+    "block": "Chittumala",
+    "district": "Kollam"
+  },
+  "thrikkaruva": {
+    "panchayat_raw": "Thrikkaruva",
+    "block": "Chittumala",
+    "district": "Kollam"
+  },
+  "thekkumbhagom": {
+    "panchayat_raw": "Thekkumbhagom",
+    "block": "Chavara",
+    "district": "Kollam"
+  },
+  "chavara": {
+    "panchayat_raw": "Chavara",
+    "block": "Chavara",
+    "district": "Kollam"
+  },
+  "thevalakkara": {
+    "panchayat_raw": "Thevalakkara",
+    "block": "Chavara",
+    "district": "Kollam"
+  },
+  "panmana": {
+    "panchayat_raw": "Panmana",
+    "block": "Chavara",
+    "district": "Kollam"
+  },
+  "neendakara": {
+    "panchayat_raw": "Neendakara",
+    "block": "Chavara",
+    "district": "Kollam"
+  },
+  "mayyanad": {
+    "panchayat_raw": "Mayyanad",
+    "block": "Mukhathala",
+    "district": "Kollam"
+  },
+  "thrikkovilvattom": {
+    "panchayat_raw": "Thrikkovilvattom",
+    "block": "Mukhathala",
+    "district": "Kollam"
+  },
+  "kottamkara": {
+    "panchayat_raw": "Kottamkara",
+    "block": "Mukhathala",
+    "district": "Kollam"
+  },
+  "elampalloor": {
+    "panchayat_raw": "Elampalloor",
+    "block": "Mukhathala",
+    "district": "Kollam"
+  },
+  "nedumpana": {
+    "panchayat_raw": "Nedumpana",
+    "block": "Mukhathala",
+    "district": "Kollam"
+  },
+  "poothakulam": {
+    "panchayat_raw": "Poothakulam",
+    "block": "Ithikkara",
+    "district": "Kollam"
+  },
+  "kalluvathukkal": {
+    "panchayat_raw": "Kalluvathukkal",
+    "block": "Ithikkara",
+    "district": "Kollam"
+  },
+  "chathannoor": {
+    "panchayat_raw": "Chathannoor",
+    "block": "Ithikkara",
+    "district": "Kollam"
+  },
+  "adichanalloor": {
+    "panchayat_raw": "Adichanalloor",
+    "block": "Ithikkara",
+    "district": "Kollam"
+  },
+  "chirakkara": {
+    "panchayat_raw": "Chirakkara",
+    "block": "Ithikkara",
+    "district": "Kollam"
+  },
+  "chithara": {
+    "panchayat_raw": "Chithara",
+    "block": "Chadayamangalam",
+    "district": "Kollam"
+  },
+  "kadakkal": {
+    "panchayat_raw": "Kadakkal",
+    "block": "Chadayamangalam",
+    "district": "Kollam"
+  },
+  "chadayamangalam": {
+    "panchayat_raw": "Chadayamangalam",
+    "block": "Chadayamangalam",
+    "district": "Kollam"
+  },
+  "ittiva": {
+    "panchayat_raw": "Ittiva",
+    "block": "Chadayamangalam",
+    "district": "Kollam"
+  },
+  "velinalloor": {
+    "panchayat_raw": "Velinalloor",
+    "block": "Chadayamangalam",
+    "district": "Kollam"
+  },
+  "elamadu": {
+    "panchayat_raw": "Elamadu",
+    "block": "Chadayamangalam",
+    "district": "Kollam"
+  },
+  "nilamel": {
+    "panchayat_raw": "Nilamel",
+    "block": "Chadayamangalam",
+    "district": "Kollam"
+  },
+  "kummil": {
+    "panchayat_raw": "Kummil",
+    "block": "Chadayamangalam",
+    "district": "Kollam"
+  },
+  "anicadu": {
+    "panchayat_raw": "Anicadu",
+    "block": "Mallappally",
+    "district": "Pathanamthitta"
+  },
+  "kaviyoor": {
+    "panchayat_raw": "Kaviyoor",
+    "block": "Mallappally",
+    "district": "Pathanamthitta"
+  },
+  "kottanad": {
+    "panchayat_raw": "Kottanad",
+    "block": "Mallappally",
+    "district": "Pathanamthitta"
+  },
+  "kottangal": {
+    "panchayat_raw": "Kottangal",
+    "block": "Mallappally",
+    "district": "Pathanamthitta"
+  },
+  "kallooppara": {
+    "panchayat_raw": "Kallooppara",
+    "block": "Mallappally",
+    "district": "Pathanamthitta"
+  },
+  "kunnamthanam": {
+    "panchayat_raw": "Kunnamthanam",
+    "block": "Mallappally",
+    "district": "Pathanamthitta"
+  },
+  "mallappally": {
+    "panchayat_raw": "Mallappally",
+    "block": "Mallappally",
+    "district": "Pathanamthitta"
+  },
+  "kadapra": {
+    "panchayat_raw": "Kadapra",
+    "block": "Pulikeezhu",
+    "district": "Pathanamthitta"
+  },
+  "kuttoor": {
+    "panchayat_raw": "Kuttoor",
+    "block": "Pulikeezhu",
+    "district": "Pathanamthitta"
+  },
+  "niranam": {
+    "panchayat_raw": "Niranam",
+    "block": "Pulikeezhu",
+    "district": "Pathanamthitta"
+  },
+  "nedumpuram": {
+    "panchayat_raw": "Nedumpuram",
+    "block": "Pulikeezhu",
+    "district": "Pathanamthitta"
+  },
+  "peringara": {
+    "panchayat_raw": "Peringara",
+    "block": "Pulikeezhu",
+    "district": "Pathanamthitta"
+  },
+  "ayroor": {
+    "panchayat_raw": "Ayroor",
+    "block": "Koipuram",
+    "district": "Pathanamthitta"
+  },
+  "eraviperoor": {
+    "panchayat_raw": "Eraviperoor",
+    "block": "Koipuram",
+    "district": "Pathanamthitta"
+  },
+  "koipuram": {
+    "panchayat_raw": "Koipuram",
+    "block": "Koipuram",
+    "district": "Pathanamthitta"
+  },
+  "thottappuzhassery": {
+    "panchayat_raw": "Thottappuzhassery",
+    "block": "Koipuram",
+    "district": "Pathanamthitta"
+  },
+  "ezhumattoor": {
+    "panchayat_raw": "Ezhumattoor",
+    "block": "Koipuram",
+    "district": "Pathanamthitta"
+  },
+  "puramattom": {
+    "panchayat_raw": "Puramattom",
+    "block": "Koipuram",
+    "district": "Pathanamthitta"
+  },
+  "omalloor": {
+    "panchayat_raw": "Omalloor",
+    "block": "Elanthoor",
+    "district": "Pathanamthitta"
+  },
+  "chenneerkara": {
+    "panchayat_raw": "Chenneerkara",
+    "block": "Elanthoor",
+    "district": "Pathanamthitta"
+  },
+  "elanthoor": {
+    "panchayat_raw": "Elanthoor",
+    "block": "Elanthoor",
+    "district": "Pathanamthitta"
+  },
+  "cherukole": {
+    "panchayat_raw": "Cherukole",
+    "block": "Elanthoor",
+    "district": "Pathanamthitta"
+  },
+  "kozhencherry": {
+    "panchayat_raw": "Kozhencherry",
+    "block": "Elanthoor",
+    "district": "Pathanamthitta"
+  },
+  "mallappuzhassery": {
+    "panchayat_raw": "Mallappuzhassery",
+    "block": "Elanthoor",
+    "district": "Pathanamthitta"
+  },
+  "naranganam": {
+    "panchayat_raw": "Naranganam",
+    "block": "Elanthoor",
+    "district": "Pathanamthitta"
+  },
+  "ranni pazhavangadi": {
+    "panchayat_raw": "Ranni Pazhavangadi",
+    "block": "Ranni",
+    "district": "Pathanamthitta"
+  },
+  "ranni": {
+    "panchayat_raw": "Ranni",
+    "block": "Ranni",
+    "district": "Pathanamthitta"
+  },
+  "ranni angadi": {
+    "panchayat_raw": "Ranni Angadi",
+    "block": "Ranni",
+    "district": "Pathanamthitta"
+  },
+  "ranni perunadu": {
+    "panchayat_raw": "Ranni Perunadu",
+    "block": "Ranni",
+    "district": "Pathanamthitta"
+  },
+  "vadaserikara": {
+    "panchayat_raw": "Vadaserikara",
+    "block": "Ranni",
+    "district": "Pathanamthitta"
+  },
+  "chittar": {
+    "panchayat_raw": "Chittar",
+    "block": "Ranni",
+    "district": "Pathanamthitta"
+  },
+  "seethathodu": {
+    "panchayat_raw": "Seethathodu",
+    "block": "Ranni",
+    "district": "Pathanamthitta"
+  },
+  "naranammoozhy": {
+    "panchayat_raw": "Naranammoozhy",
+    "block": "Ranni",
+    "district": "Pathanamthitta"
+  },
+  "vechoochira": {
+    "panchayat_raw": "Vechoochira",
+    "block": "Ranni",
+    "district": "Pathanamthitta"
+  },
+  "konni": {
+    "panchayat_raw": "Konni",
+    "block": "Konni",
+    "district": "Pathanamthitta"
+  },
+  "aruvappulam": {
+    "panchayat_raw": "Aruvappulam",
+    "block": "Konni",
+    "district": "Pathanamthitta"
+  },
+  "pramadom": {
+    "panchayat_raw": "Pramadom",
+    "block": "Konni",
+    "district": "Pathanamthitta"
+  },
+  "mylapra": {
+    "panchayat_raw": "Mylapra",
+    "block": "Konni",
+    "district": "Pathanamthitta"
+  },
+  "vallicode": {
+    "panchayat_raw": "Vallicode",
+    "block": "Konni",
+    "district": "Pathanamthitta"
+  },
+  "thannithodu": {
+    "panchayat_raw": "Thannithodu",
+    "block": "Konni",
+    "district": "Pathanamthitta"
+  },
+  "malayalapuzha": {
+    "panchayat_raw": "Malayalapuzha",
+    "block": "Konni",
+    "district": "Pathanamthitta"
+  },
+  "pandalam thekkekara": {
+    "panchayat_raw": "Pandalam Thekkekara",
+    "block": "Pandalam",
+    "district": "Pathanamthitta"
+  },
+  "thumpamon": {
+    "panchayat_raw": "Thumpamon",
+    "block": "Pandalam",
+    "district": "Pathanamthitta"
+  },
+  "aranmula": {
+    "panchayat_raw": "Aranmula",
+    "block": "Pandalam",
+    "district": "Pathanamthitta"
+  },
+  "mezhuveli": {
+    "panchayat_raw": "Mezhuveli",
+    "block": "Pandalam",
+    "district": "Pathanamthitta"
+  },
+  "kulanada": {
+    "panchayat_raw": "Kulanada",
+    "block": "Pandalam",
+    "district": "Pathanamthitta"
+  },
+  "enadimangalam": {
+    "panchayat_raw": "Enadimangalam",
+    "block": "Parakkode",
+    "district": "Pathanamthitta"
+  },
+  "erathu": {
+    "panchayat_raw": "Erathu",
+    "block": "Parakkode",
+    "district": "Pathanamthitta"
+  },
+  "ezhamkulam": {
+    "panchayat_raw": "Ezhamkulam",
+    "block": "Parakkode",
+    "district": "Pathanamthitta"
+  },
+  "kadampanad": {
+    "panchayat_raw": "Kadampanad",
+    "block": "Parakkode",
+    "district": "Pathanamthitta"
+  },
+  "kalanjoor": {
+    "panchayat_raw": "Kalanjoor",
+    "block": "Parakkode",
+    "district": "Pathanamthitta"
+  },
+  "kodumon": {
+    "panchayat_raw": "Kodumon",
+    "block": "Parakkode",
+    "district": "Pathanamthitta"
+  },
+  "arookutty": {
+    "panchayat_raw": "Arookutty",
+    "block": "Thycattussery",
+    "district": "Alappuzha"
+  },
+  "chennam pallippuram": {
+    "panchayat_raw": "Chennam Pallippuram",
+    "block": "Thycattussery",
+    "district": "Alappuzha"
+  },
+  "panavally": {
+    "panchayat_raw": "Panavally",
+    "block": "Thycattussery",
+    "district": "Alappuzha"
+  },
+  "perumpalam": {
+    "panchayat_raw": "Perumpalam",
+    "block": "Thycattussery",
+    "district": "Alappuzha"
+  },
+  "thycattussery": {
+    "panchayat_raw": "Thycattussery",
+    "block": "Thycattussery",
+    "district": "Alappuzha"
+  },
+  "vayalar": {
+    "panchayat_raw": "Vayalar",
+    "block": "Pattanakkad",
+    "district": "Alappuzha"
+  },
+  "pattanakkad": {
+    "panchayat_raw": "Pattanakkad",
+    "block": "Pattanakkad",
+    "district": "Alappuzha"
+  },
+  "thuravoor": {
+    "panchayat_raw": "Thuravoor",
+    "block": "Angamaly",
+    "district": "Ernakulam"
+  },
+  "kuthiathod": {
+    "panchayat_raw": "Kuthiathod",
+    "block": "Pattanakkad",
+    "district": "Alappuzha"
+  },
+  "kodamthuruth": {
+    "panchayat_raw": "Kodamthuruth",
+    "block": "Pattanakkad",
+    "district": "Alappuzha"
+  },
+  "ezhupunna": {
+    "panchayat_raw": "Ezhupunna",
+    "block": "Pattanakkad",
+    "district": "Alappuzha"
+  },
+  "aroor": {
+    "panchayat_raw": "Aroor",
+    "block": "Pattanakkad",
+    "district": "Alappuzha"
+  },
+  "mararikulam north": {
+    "panchayat_raw": "Mararikulam North",
+    "block": "Kanjikuzhy",
+    "district": "Alappuzha"
+  },
+  "kanjikuzhy": {
+    "panchayat_raw": "Kanjikuzhy",
+    "block": "Kanjikuzhy",
+    "district": "Alappuzha"
+  },
+  "thanneermukkom": {
+    "panchayat_raw": "Thanneermukkom",
+    "block": "Kanjikuzhy",
+    "district": "Alappuzha"
+  },
+  "cherthala south": {
+    "panchayat_raw": "Cherthala South",
+    "block": "Kanjikuzhy",
+    "district": "Alappuzha"
+  },
+  "kadakkarappally": {
+    "panchayat_raw": "Kadakkarappally",
+    "block": "Kanjikuzhy",
+    "district": "Alappuzha"
+  },
+  "aryad": {
+    "panchayat_raw": "Aryad",
+    "block": "Aryad",
+    "district": "Alappuzha"
+  },
+  "mannancherry": {
+    "panchayat_raw": "Mannancherry",
+    "block": "Aryad",
+    "district": "Alappuzha"
+  },
+  "mararikulam south": {
+    "panchayat_raw": "Mararikulam South",
+    "block": "Aryad",
+    "district": "Alappuzha"
+  },
+  "muhamma": {
+    "panchayat_raw": "Muhamma",
+    "block": "Aryad",
+    "district": "Alappuzha"
+  },
+  "purakkad": {
+    "panchayat_raw": "Purakkad",
+    "block": "Ambalappuzha",
+    "district": "Alappuzha"
+  },
+  "ambalappuzha south": {
+    "panchayat_raw": "Ambalappuzha South",
+    "block": "Ambalappuzha",
+    "district": "Alappuzha"
+  },
+  "ambalappuzha north": {
+    "panchayat_raw": "Ambalappuzha North",
+    "block": "Ambalappuzha",
+    "district": "Alappuzha"
+  },
+  "punnapra south": {
+    "panchayat_raw": "Punnapra South",
+    "block": "Ambalappuzha",
+    "district": "Alappuzha"
+  },
+  "punnapra north": {
+    "panchayat_raw": "Punnapra North",
+    "block": "Ambalappuzha",
+    "district": "Alappuzha"
+  },
+  "thalavady": {
+    "panchayat_raw": "Thalavady",
+    "block": "Champakulam",
+    "district": "Alappuzha"
+  },
+  "edathua": {
+    "panchayat_raw": "Edathua",
+    "block": "Champakulam",
+    "district": "Alappuzha"
+  },
+  "thakazhy": {
+    "panchayat_raw": "Thakazhy",
+    "block": "Champakulam",
+    "district": "Alappuzha"
+  },
+  "nedumudi": {
+    "panchayat_raw": "Nedumudi",
+    "block": "Champakulam",
+    "district": "Alappuzha"
+  },
+  "champakulam": {
+    "panchayat_raw": "Champakulam",
+    "block": "Champakulam",
+    "district": "Alappuzha"
+  },
+  "kainakary": {
+    "panchayat_raw": "Kainakary",
+    "block": "Champakulam",
+    "district": "Alappuzha"
+  },
+  "muttar": {
+    "panchayat_raw": "Muttar",
+    "block": "Veliyanad",
+    "district": "Alappuzha"
+  },
+  "veliyanad": {
+    "panchayat_raw": "Veliyanad",
+    "block": "Veliyanad",
+    "district": "Alappuzha"
+  },
+  "neelamperoor": {
+    "panchayat_raw": "Neelamperoor",
+    "block": "Veliyanad",
+    "district": "Alappuzha"
+  },
+  "kavalam": {
+    "panchayat_raw": "Kavalam",
+    "block": "Veliyanad",
+    "district": "Alappuzha"
+  },
+  "pulincunnoo": {
+    "panchayat_raw": "Pulincunnoo",
+    "block": "Veliyanad",
+    "district": "Alappuzha"
+  },
+  "ramankary": {
+    "panchayat_raw": "Ramankary",
+    "block": "Veliyanad",
+    "district": "Alappuzha"
+  },
+  "mulakuzha": {
+    "panchayat_raw": "Mulakuzha",
+    "block": "Chengannur",
+    "district": "Alappuzha"
+  },
+  "venmoney": {
+    "panchayat_raw": "Venmoney",
+    "block": "Chengannur",
+    "district": "Alappuzha"
+  },
+  "cheriyanad": {
+    "panchayat_raw": "Cheriyanad",
+    "block": "Chengannur",
+    "district": "Alappuzha"
+  },
+  "ala": {
+    "panchayat_raw": "Ala",
+    "block": "Chengannur",
+    "district": "Alappuzha"
+  },
+  "puliyoor": {
+    "panchayat_raw": "Puliyoor",
+    "block": "Chengannur",
+    "district": "Alappuzha"
+  },
+  "budhanoor": {
+    "panchayat_raw": "Budhanoor",
+    "block": "Chengannur",
+    "district": "Alappuzha"
+  },
+  "pandanad": {
+    "panchayat_raw": "Pandanad",
+    "block": "Chengannur",
+    "district": "Alappuzha"
+  },
+  "thiruvanvandoor": {
+    "panchayat_raw": "Thiruvanvandoor",
+    "block": "Chengannur",
+    "district": "Alappuzha"
+  },
+  "karthikappally": {
+    "panchayat_raw": "Karthikappally",
+    "block": "Haripad",
+    "district": "Alappuzha"
+  },
+  "thrikkunnappuzha": {
+    "panchayat_raw": "Thrikkunnappuzha",
+    "block": "Haripad",
+    "district": "Alappuzha"
+  },
+  "kumarapuram": {
+    "panchayat_raw": "Kumarapuram",
+    "block": "Haripad",
+    "district": "Alappuzha"
+  },
+  "karuvatta": {
+    "panchayat_raw": "Karuvatta",
+    "block": "Haripad",
+    "district": "Alappuzha"
+  },
+  "pallippad": {
+    "panchayat_raw": "Pallippad",
+    "block": "Haripad",
+    "district": "Alappuzha"
+  },
+  "cheruthana": {
+    "panchayat_raw": "Cheruthana",
+    "block": "Haripad",
+    "district": "Alappuzha"
+  },
+  "veeyapuram": {
+    "panchayat_raw": "Veeyapuram",
+    "block": "Haripad",
+    "district": "Alappuzha"
+  },
+  "mavelikara thekkekara": {
+    "panchayat_raw": "Mavelikara Thekkekara",
+    "block": "Mavelikara",
+    "district": "Alappuzha"
+  },
+  "chettikulangara": {
+    "panchayat_raw": "Chettikulangara",
+    "block": "Mavelikara",
+    "district": "Alappuzha"
+  },
+  "chennithala-thripperumthura": {
+    "panchayat_raw": "Chennithala-Thripperumthura",
+    "block": "Mavelikara",
+    "district": "Alappuzha"
+  },
+  "thazhakara": {
+    "panchayat_raw": "Thazhakara",
+    "block": "Mavelikara",
+    "district": "Alappuzha"
+  },
+  "mannar": {
+    "panchayat_raw": "Mannar",
+    "block": "Mavelikara",
+    "district": "Alappuzha"
+  },
+  "nooranad": {
+    "panchayat_raw": "Nooranad",
+    "block": "Bharanickavu",
+    "district": "Alappuzha"
+  },
+  "vallikunnam": {
+    "panchayat_raw": "Vallikunnam",
+    "block": "Bharanickavu",
+    "district": "Alappuzha"
+  },
+  "bharanickavu": {
+    "panchayat_raw": "Bharanickavu",
+    "block": "Bharanickavu",
+    "district": "Alappuzha"
+  },
+  "mavelikara thamarakulam": {
+    "panchayat_raw": "Mavelikara Thamarakulam",
+    "block": "Bharanickavu",
+    "district": "Alappuzha"
+  },
+  "chunakara": {
+    "panchayat_raw": "Chunakara",
+    "block": "Bharanickavu",
+    "district": "Alappuzha"
+  },
+  "palamel": {
+    "panchayat_raw": "Palamel",
+    "block": "Bharanickavu",
+    "district": "Alappuzha"
+  },
+  "pathiyoor": {
+    "panchayat_raw": "Pathiyoor",
+    "block": "Muthukulam",
+    "district": "Alappuzha"
+  },
+  "kandalloor": {
+    "panchayat_raw": "Kandalloor",
+    "block": "Muthukulam",
+    "district": "Alappuzha"
+  },
+  "cheppad": {
+    "panchayat_raw": "Cheppad",
+    "block": "Muthukulam",
+    "district": "Alappuzha"
+  },
+  "muthukulam": {
+    "panchayat_raw": "Muthukulam",
+    "block": "Muthukulam",
+    "district": "Alappuzha"
+  },
+  "arattupuzha": {
+    "panchayat_raw": "Arattupuzha",
+    "block": "Muthukulam",
+    "district": "Alappuzha"
+  },
+  "krishnapuram": {
+    "panchayat_raw": "Krishnapuram",
+    "block": "Muthukulam",
+    "district": "Alappuzha"
+  },
+  "devikulangara": {
+    "panchayat_raw": "Devikulangara",
+    "block": "Muthukulam",
+    "district": "Alappuzha"
+  },
+  "chingoli": {
+    "panchayat_raw": "Chingoli",
+    "block": "Muthukulam",
+    "district": "Alappuzha"
+  },
+  "thalayazham": {
+    "panchayat_raw": "Thalayazham",
+    "block": "Vaikom",
+    "district": "Kottayam"
+  },
+  "chempu": {
+    "panchayat_raw": "Chempu",
+    "block": "Vaikom",
+    "district": "Kottayam"
+  },
+  "maravanthuruthu": {
+    "panchayat_raw": "Maravanthuruthu",
+    "block": "Vaikom",
+    "district": "Kottayam"
+  },
+  "tv puram": {
+    "panchayat_raw": "TV Puram",
+    "block": "Vaikom",
+    "district": "Kottayam"
+  },
+  "vechoor": {
+    "panchayat_raw": "Vechoor",
+    "block": "Vaikom",
+    "district": "Kottayam"
+  },
+  "udayanapuram": {
+    "panchayat_raw": "Udayanapuram",
+    "block": "Vaikom",
+    "district": "Kottayam"
+  },
+  "kaduthuruthy": {
+    "panchayat_raw": "Kaduthuruthy",
+    "block": "Kaduthuruthy",
+    "district": "Kottayam"
+  },
+  "mulakulam": {
+    "panchayat_raw": "Mulakulam",
+    "block": "Kaduthuruthy",
+    "district": "Kottayam"
+  },
+  "neezhoor": {
+    "panchayat_raw": "Neezhoor",
+    "block": "Kaduthuruthy",
+    "district": "Kottayam"
+  },
+  "thalayolaparambu": {
+    "panchayat_raw": "Thalayolaparambu",
+    "block": "Kaduthuruthy",
+    "district": "Kottayam"
+  },
+  "velloor": {
+    "panchayat_raw": "Velloor",
+    "block": "Kaduthuruthy",
+    "district": "Kottayam"
+  },
+  "aymanam": {
+    "panchayat_raw": "Aymanam",
+    "block": "Ettumanoor",
+    "district": "Kottayam"
+  },
+  "athirampuzha": {
+    "panchayat_raw": "Athirampuzha",
+    "block": "Ettumanoor",
+    "district": "Kottayam"
+  },
+  "arpookara": {
+    "panchayat_raw": "Arpookara",
+    "block": "Ettumanoor",
+    "district": "Kottayam"
+  },
+  "neendoor": {
+    "panchayat_raw": "Neendoor",
+    "block": "Ettumanoor",
+    "district": "Kottayam"
+  },
+  "kumarakam": {
+    "panchayat_raw": "Kumarakam",
+    "block": "Ettumanoor",
+    "district": "Kottayam"
+  },
+  "thiruvarppu": {
+    "panchayat_raw": "Thiruvarppu",
+    "block": "Ettumanoor",
+    "district": "Kottayam"
+  },
+  "kadaplamattom": {
+    "panchayat_raw": "Kadaplamattom",
+    "block": "Uzhavoor",
+    "district": "Kottayam"
+  },
+  "marangattupilly": {
+    "panchayat_raw": "Marangattupilly",
+    "block": "Uzhavoor",
+    "district": "Kottayam"
+  },
+  "kanakkary": {
+    "panchayat_raw": "Kanakkary",
+    "block": "Uzhavoor",
+    "district": "Kottayam"
+  },
+  "veliyannoor": {
+    "panchayat_raw": "Veliyannoor",
+    "block": "Uzhavoor",
+    "district": "Kottayam"
+  },
+  "kuravilangad": {
+    "panchayat_raw": "Kuravilangad",
+    "block": "Uzhavoor",
+    "district": "Kottayam"
+  },
+  "uzhavoor": {
+    "panchayat_raw": "Uzhavoor",
+    "block": "Uzhavoor",
+    "district": "Kottayam"
+  },
+  "ramapuram": {
+    "panchayat_raw": "Ramapuram",
+    "block": "Uzhavoor",
+    "district": "Kottayam"
+  },
+  "manjoor": {
+    "panchayat_raw": "Manjoor",
+    "block": "Uzhavoor",
+    "district": "Kottayam"
+  },
+  "bharananganam": {
+    "panchayat_raw": "Bharananganam",
+    "block": "Lalam",
+    "district": "Kottayam"
+  },
+  "karoor": {
+    "panchayat_raw": "Karoor",
+    "block": "Lalam",
+    "district": "Kottayam"
+  },
+  "kozhuvanal": {
+    "panchayat_raw": "Kozhuvanal",
+    "block": "Lalam",
+    "district": "Kottayam"
+  },
+  "kadanad": {
+    "panchayat_raw": "Kadanad",
+    "block": "Lalam",
+    "district": "Kottayam"
+  },
+  "meenachil": {
+    "panchayat_raw": "Meenachil",
+    "block": "Lalam",
+    "district": "Kottayam"
+  },
+  "mutholy": {
+    "panchayat_raw": "Mutholy",
+    "block": "Lalam",
+    "district": "Kottayam"
+  },
+  "melukavu": {
+    "panchayat_raw": "Melukavu",
+    "block": "Erattupetta",
+    "district": "Kottayam"
+  },
+  "moonnilavu": {
+    "panchayat_raw": "Moonnilavu",
+    "block": "Erattupetta",
+    "district": "Kottayam"
+  },
+  "poonjar": {
+    "panchayat_raw": "Poonjar",
+    "block": "Erattupetta",
+    "district": "Kottayam"
+  },
+  "poonjar thekkekara": {
+    "panchayat_raw": "Poonjar Thekkekara",
+    "block": "Erattupetta",
+    "district": "Kottayam"
+  },
+  "thalappalam": {
+    "panchayat_raw": "Thalappalam",
+    "block": "Erattupetta",
+    "district": "Kottayam"
+  },
+  "teekoy": {
+    "panchayat_raw": "Teekoy",
+    "block": "Erattupetta",
+    "district": "Kottayam"
+  },
+  "thalanad": {
+    "panchayat_raw": "Thalanad",
+    "block": "Erattupetta",
+    "district": "Kottayam"
+  },
+  "thidanad": {
+    "panchayat_raw": "Thidanad",
+    "block": "Erattupetta",
+    "district": "Kottayam"
+  },
+  "akalakunnam": {
+    "panchayat_raw": "Akalakunnam",
+    "block": "Pampady",
+    "district": "Kottayam"
+  },
+  "elikulam": {
+    "panchayat_raw": "Elikulam",
+    "block": "Pampady",
+    "district": "Kottayam"
+  },
+  "kooroppada": {
+    "panchayat_raw": "Kooroppada",
+    "block": "Pampady",
+    "district": "Kottayam"
+  },
+  "pampady": {
+    "panchayat_raw": "Pampady",
+    "block": "Pampady",
+    "district": "Kottayam"
+  },
+  "pallikkathode": {
+    "panchayat_raw": "Pallikkathode",
+    "block": "Pampady",
+    "district": "Kottayam"
+  },
+  "meenadom": {
+    "panchayat_raw": "Meenadom",
+    "block": "Pampady",
+    "district": "Kottayam"
+  },
+  "kidangoor": {
+    "panchayat_raw": "Kidangoor",
+    "block": "Pampady",
+    "district": "Kottayam"
+  },
+  "manarcad": {
+    "panchayat_raw": "Manarcad",
+    "block": "Pampady",
+    "district": "Kottayam"
+  },
+  "ayarkunnam": {
+    "panchayat_raw": "Ayarkunnam",
+    "block": "Pallom",
+    "district": "Kottayam"
+  },
+  "puthuppally": {
+    "panchayat_raw": "Puthuppally",
+    "block": "Pallom",
+    "district": "Kottayam"
+  },
+  "panachikkad": {
+    "panchayat_raw": "Panachikkad",
+    "block": "Pallom",
+    "district": "Kottayam"
+  },
+  "vijayapuram": {
+    "panchayat_raw": "Vijayapuram",
+    "block": "Pallom",
+    "district": "Kottayam"
+  },
+  "kurichy": {
+    "panchayat_raw": "Kurichy",
+    "block": "Pallom",
+    "district": "Kottayam"
+  },
+  "madappally": {
+    "panchayat_raw": "Madappally",
+    "block": "Madappally",
+    "district": "Kottayam"
+  },
+  "paippad": {
+    "panchayat_raw": "Paippad",
+    "block": "Madappally",
+    "district": "Kottayam"
+  },
+  "thrickodithanam": {
+    "panchayat_raw": "Thrickodithanam",
+    "block": "Madappally",
+    "district": "Kottayam"
+  },
+  "vakathanam": {
+    "panchayat_raw": "Vakathanam",
+    "block": "Madappally",
+    "district": "Kottayam"
+  },
+  "vazhappally": {
+    "panchayat_raw": "Vazhappally",
+    "block": "Madappally",
+    "district": "Kottayam"
+  },
+  "chirakkadavu": {
+    "panchayat_raw": "Chirakkadavu",
+    "block": "Vazhoor",
+    "district": "Kottayam"
+  },
+  "kangazha": {
+    "panchayat_raw": "Kangazha",
+    "block": "Vazhoor",
+    "district": "Kottayam"
+  },
+  "nedumkunnam": {
+    "panchayat_raw": "Nedumkunnam",
+    "block": "Vazhoor",
+    "district": "Kottayam"
+  },
+  "vellavoor": {
+    "panchayat_raw": "Vellavoor",
+    "block": "Vazhoor",
+    "district": "Kottayam"
+  },
+  "vazhoor": {
+    "panchayat_raw": "Vazhoor",
+    "block": "Vazhoor",
+    "district": "Kottayam"
+  },
+  "karukachal": {
+    "panchayat_raw": "Karukachal",
+    "block": "Vazhoor",
+    "district": "Kottayam"
+  },
+  "erumeli": {
+    "panchayat_raw": "Erumeli",
+    "block": "Kanjirappally",
+    "district": "Kottayam"
+  },
+  "kanjirappally": {
+    "panchayat_raw": "Kanjirappally",
+    "block": "Kanjirappally",
+    "district": "Kottayam"
+  },
+  "koottickal": {
+    "panchayat_raw": "Koottickal",
+    "block": "Kanjirappally",
+    "district": "Kottayam"
+  },
+  "manimala": {
+    "panchayat_raw": "Manimala",
+    "block": "Kanjirappally",
+    "district": "Kottayam"
+  },
+  "mundakayam": {
+    "panchayat_raw": "Mundakayam",
+    "block": "Kanjirappally",
+    "district": "Kottayam"
+  },
+  "parathodu": {
+    "panchayat_raw": "Parathodu",
+    "block": "Kanjirappally",
+    "district": "Kottayam"
+  },
+  "koruthodu": {
+    "panchayat_raw": "Koruthodu",
+    "block": "Kanjirappally",
+    "district": "Kottayam"
+  },
+  "adimaly": {
+    "panchayat_raw": "Adimaly",
+    "block": "Adimaly",
+    "district": "Idukki"
+  },
+  "konnathady": {
+    "panchayat_raw": "Konnathady",
+    "block": "Adimaly",
+    "district": "Idukki"
+  },
+  "bisonvalley": {
+    "panchayat_raw": "Bisonvalley",
+    "block": "Adimaly",
+    "district": "Idukki"
+  },
+  "vellathooval": {
+    "panchayat_raw": "Vellathooval",
+    "block": "Adimaly",
+    "district": "Idukki"
+  },
+  "pallivasal": {
+    "panchayat_raw": "Pallivasal",
+    "block": "Adimaly",
+    "district": "Idukki"
+  },
+  "marayoor": {
+    "panchayat_raw": "Marayoor",
+    "block": "Devikulam",
+    "district": "Idukki"
+  },
+  "munnar": {
+    "panchayat_raw": "Munnar",
+    "block": "Devikulam",
+    "district": "Idukki"
+  },
+  "kanthalloor": {
+    "panchayat_raw": "Kanthalloor",
+    "block": "Devikulam",
+    "district": "Idukki"
+  },
+  "vattavada": {
+    "panchayat_raw": "Vattavada",
+    "block": "Devikulam",
+    "district": "Idukki"
+  },
+  "santhanpara": {
+    "panchayat_raw": "Santhanpara",
+    "block": "Devikulam",
+    "district": "Idukki"
+  },
+  "chinnakanal": {
+    "panchayat_raw": "Chinnakanal",
+    "block": "Devikulam",
+    "district": "Idukki"
+  },
+  "mankulam": {
+    "panchayat_raw": "Mankulam",
+    "block": "Devikulam",
+    "district": "Idukki"
+  },
+  "devikulam": {
+    "panchayat_raw": "Devikulam",
+    "block": "Devikulam",
+    "district": "Idukki"
+  },
+  "edamalakudi": {
+    "panchayat_raw": "Edamalakudi",
+    "block": "Devikulam",
+    "district": "Idukki"
+  },
+  "pampadumpara": {
+    "panchayat_raw": "Pampadumpara",
+    "block": "Nedumkandam",
+    "district": "Idukki"
+  },
+  "senapathy": {
+    "panchayat_raw": "Senapathy",
+    "block": "Nedumkandam",
+    "district": "Idukki"
+  },
+  "karunapuram": {
+    "panchayat_raw": "Karunapuram",
+    "block": "Nedumkandam",
+    "district": "Idukki"
+  },
+  "rajakkad": {
+    "panchayat_raw": "Rajakkad",
+    "block": "Nedumkandam",
+    "district": "Idukki"
+  },
+  "nedumkandam": {
+    "panchayat_raw": "Nedumkandam",
+    "block": "Nedumkandam",
+    "district": "Idukki"
+  },
+  "udumbanchola": {
+    "panchayat_raw": "Udumbanchola",
+    "block": "Nedumkandam",
+    "district": "Idukki"
+  },
+  "rajakumary": {
+    "panchayat_raw": "Rajakumary",
+    "block": "Nedumkandam",
+    "district": "Idukki"
+  },
+  "vannappuram": {
+    "panchayat_raw": "Vannappuram",
+    "block": "Elemdesam",
+    "district": "Idukki"
+  },
+  "udumbanoor": {
+    "panchayat_raw": "Udumbanoor",
+    "block": "Elemdesam",
+    "district": "Idukki"
+  },
+  "kodikulam": {
+    "panchayat_raw": "Kodikulam",
+    "block": "Elemdesam",
+    "district": "Idukki"
+  },
+  "alakode": {
+    "panchayat_raw": "Alakode",
+    "block": "Thalipparamba",
+    "district": "Kannur"
+  },
+  "velliyamattom": {
+    "panchayat_raw": "Velliyamattom",
+    "block": "Elemdesam",
+    "district": "Idukki"
+  },
+  "karimannoor": {
+    "panchayat_raw": "Karimannoor",
+    "block": "Elemdesam",
+    "district": "Idukki"
+  },
+  "kudayathoor": {
+    "panchayat_raw": "Kudayathoor",
+    "block": "Elemdesam",
+    "district": "Idukki"
+  },
+  "idukki kanjikuzhy": {
+    "panchayat_raw": "Idukki Kanjikuzhy",
+    "block": "Idukki",
+    "district": "Idukki"
+  },
+  "vathikudy": {
+    "panchayat_raw": "Vathikudy",
+    "block": "Idukki",
+    "district": "Idukki"
+  },
+  "arakulam": {
+    "panchayat_raw": "Arakulam",
+    "block": "Idukki",
+    "district": "Idukki"
+  },
+  "kamakshy": {
+    "panchayat_raw": "Kamakshy",
+    "block": "Idukki",
+    "district": "Idukki"
+  },
+  "vazhathope": {
+    "panchayat_raw": "Vazhathope",
+    "block": "Idukki",
+    "district": "Idukki"
+  },
+  "mariyapuram": {
+    "panchayat_raw": "Mariyapuram",
+    "block": "Idukki",
+    "district": "Idukki"
+  },
+  "upputhara": {
+    "panchayat_raw": "Upputhara",
+    "block": "Kattappana",
+    "district": "Idukki"
+  },
+  "vandanmedu": {
+    "panchayat_raw": "Vandanmedu",
+    "block": "Kattappana",
+    "district": "Idukki"
+  },
+  "kanchiyar": {
+    "panchayat_raw": "Kanchiyar",
+    "block": "Kattappana",
+    "district": "Idukki"
+  },
+  "erattayar": {
+    "panchayat_raw": "Erattayar",
+    "block": "Kattappana",
+    "district": "Idukki"
+  },
+  "ayyappan coil": {
+    "panchayat_raw": "Ayyappan Coil",
+    "block": "Kattappana",
+    "district": "Idukki"
+  },
+  "chakkupallam": {
+    "panchayat_raw": "Chakkupallam",
+    "block": "Kattappana",
+    "district": "Idukki"
+  },
+  "muttom": {
+    "panchayat_raw": "Muttom",
+    "block": "Thodupuzha",
+    "district": "Idukki"
+  },
+  "kumaramangalam": {
+    "panchayat_raw": "Kumaramangalam",
+    "block": "Thodupuzha",
+    "district": "Idukki"
+  },
+  "edavetty": {
+    "panchayat_raw": "Edavetty",
+    "block": "Thodupuzha",
+    "district": "Idukki"
+  },
+  "karimkunnam": {
+    "panchayat_raw": "Karimkunnam",
+    "block": "Thodupuzha",
+    "district": "Idukki"
+  },
+  "manakkad": {
+    "panchayat_raw": "Manakkad",
+    "block": "Thodupuzha",
+    "district": "Idukki"
+  },
+  "purapuzha": {
+    "panchayat_raw": "Purapuzha",
+    "block": "Thodupuzha",
+    "district": "Idukki"
+  },
+  "peruvanthanam": {
+    "panchayat_raw": "Peruvanthanam",
+    "block": "Azhutha",
+    "district": "Idukki"
+  },
+  "kumily": {
+    "panchayat_raw": "Kumily",
+    "block": "Azhutha",
+    "district": "Idukki"
+  },
+  "kokkayar": {
+    "panchayat_raw": "Kokkayar",
+    "block": "Azhutha",
+    "district": "Idukki"
+  },
+  "peermade": {
+    "panchayat_raw": "Peermade",
+    "block": "Azhutha",
+    "district": "Idukki"
+  },
+  "elappara": {
+    "panchayat_raw": "Elappara",
+    "block": "Azhutha",
+    "district": "Idukki"
+  },
+  "vandiperiyar": {
+    "panchayat_raw": "Vandiperiyar",
+    "block": "Azhutha",
+    "district": "Idukki"
+  },
+  "chendamangalam": {
+    "panchayat_raw": "Chendamangalam",
+    "block": "Paravur",
+    "district": "Ernakulam"
+  },
+  "kottuvally": {
+    "panchayat_raw": "Kottuvally",
+    "block": "Paravur",
+    "district": "Ernakulam"
+  },
+  "ezhikkara": {
+    "panchayat_raw": "Ezhikkara",
+    "block": "Paravur",
+    "district": "Ernakulam"
+  },
+  "vadakkekkara": {
+    "panchayat_raw": "Vadakkekkara",
+    "block": "Paravur",
+    "district": "Ernakulam"
+  },
+  "chittattukara": {
+    "panchayat_raw": "Chittattukara",
+    "block": "Paravur",
+    "district": "Ernakulam"
+  },
+  "karumallur": {
+    "panchayat_raw": "Karumallur",
+    "block": "Alangad",
+    "district": "Ernakulam"
+  },
+  "varapuzha": {
+    "panchayat_raw": "Varapuzha",
+    "block": "Alangad",
+    "district": "Ernakulam"
+  },
+  "alangad": {
+    "panchayat_raw": "Alangad",
+    "block": "Alangad",
+    "district": "Ernakulam"
+  },
+  "kadungalloor": {
+    "panchayat_raw": "Kadungalloor",
+    "block": "Alangad",
+    "district": "Ernakulam"
+  },
+  "mookkannur": {
+    "panchayat_raw": "Mookkannur",
+    "block": "Angamaly",
+    "district": "Ernakulam"
+  },
+  "manjapra": {
+    "panchayat_raw": "Manjapra",
+    "block": "Angamaly",
+    "district": "Ernakulam"
+  },
+  "karukutty": {
+    "panchayat_raw": "Karukutty",
+    "block": "Angamaly",
+    "district": "Ernakulam"
+  },
+  "ayyampuzha": {
+    "panchayat_raw": "Ayyampuzha",
+    "block": "Angamaly",
+    "district": "Ernakulam"
+  },
+  "kanjoor": {
+    "panchayat_raw": "Kanjoor",
+    "block": "Angamaly",
+    "district": "Ernakulam"
+  },
+  "kalady": {
+    "panchayat_raw": "Kalady",
+    "block": "Angamaly",
+    "district": "Ernakulam"
+  },
+  "malayattoor neeleeswaram": {
+    "panchayat_raw": "Malayattoor Neeleeswaram",
+    "block": "Angamaly",
+    "district": "Ernakulam"
+  },
+  "asamannoor": {
+    "panchayat_raw": "Asamannoor",
+    "block": "Koovappady",
+    "district": "Ernakulam"
+  },
+  "mudakuzha": {
+    "panchayat_raw": "Mudakuzha",
+    "block": "Koovappady",
+    "district": "Ernakulam"
+  },
+  "vengoor": {
+    "panchayat_raw": "Vengoor",
+    "block": "Koovappady",
+    "district": "Ernakulam"
+  },
+  "rayamangalam": {
+    "panchayat_raw": "Rayamangalam",
+    "block": "Koovappady",
+    "district": "Ernakulam"
+  },
+  "koovappady": {
+    "panchayat_raw": "Koovappady",
+    "block": "Koovappady",
+    "district": "Ernakulam"
+  },
+  "okkal": {
+    "panchayat_raw": "Okkal",
+    "block": "Koovappady",
+    "district": "Ernakulam"
+  },
+  "vengola": {
+    "panchayat_raw": "Vengola",
+    "block": "Vazhakulam",
+    "district": "Ernakulam"
+  },
+  "vazhakulam": {
+    "panchayat_raw": "Vazhakulam",
+    "block": "Vazhakulam",
+    "district": "Ernakulam"
+  },
+  "kizhakkambalam": {
+    "panchayat_raw": "Kizhakkambalam",
+    "block": "Vazhakulam",
+    "district": "Ernakulam"
+  },
+  "choornikkara": {
+    "panchayat_raw": "Choornikkara",
+    "block": "Vazhakulam",
+    "district": "Ernakulam"
+  },
+  "edathala": {
+    "panchayat_raw": "Edathala",
+    "block": "Vazhakulam",
+    "district": "Ernakulam"
+  },
+  "keezhmad": {
+    "panchayat_raw": "Keezhmad",
+    "block": "Vazhakulam",
+    "district": "Ernakulam"
+  },
+  "kadamakudy": {
+    "panchayat_raw": "Kadamakudy",
+    "block": "Edappally",
+    "district": "Ernakulam"
+  },
+  "cheranalloor": {
+    "panchayat_raw": "Cheranalloor",
+    "block": "Edappally",
+    "district": "Ernakulam"
+  },
+  "mulavukad": {
+    "panchayat_raw": "Mulavukad",
+    "block": "Edappally",
+    "district": "Ernakulam"
+  },
+  "elankunnapuzha": {
+    "panchayat_raw": "Elankunnapuzha",
+    "block": "Edappally",
+    "district": "Ernakulam"
+  },
+  "narakal": {
+    "panchayat_raw": "Narakal",
+    "block": "Vypin",
+    "district": "Ernakulam"
+  },
+  "nayarambalam": {
+    "panchayat_raw": "Nayarambalam",
+    "block": "Vypin",
+    "district": "Ernakulam"
+  },
+  "edavanakkad": {
+    "panchayat_raw": "Edavanakkad",
+    "block": "Vypin",
+    "district": "Ernakulam"
+  },
+  "pallippuram": {
+    "panchayat_raw": "Pallippuram",
+    "block": "Vypin",
+    "district": "Ernakulam"
+  },
+  "kuzhuppilly": {
+    "panchayat_raw": "Kuzhuppilly",
+    "block": "Vypin",
+    "district": "Ernakulam"
+  },
+  "chellanam": {
+    "panchayat_raw": "Chellanam",
+    "block": "Palluruthy",
+    "district": "Ernakulam"
+  },
+  "kumbalanghi": {
+    "panchayat_raw": "Kumbalanghi",
+    "block": "Palluruthy",
+    "district": "Ernakulam"
+  },
+  "kumbalam": {
+    "panchayat_raw": "Kumbalam",
+    "block": "Palluruthy",
+    "district": "Ernakulam"
+  },
+  "udayamperoor": {
+    "panchayat_raw": "Udayamperoor",
+    "block": "Mulanthuruthy",
+    "district": "Ernakulam"
+  },
+  "mulanthuruthy": {
+    "panchayat_raw": "Mulanthuruthy",
+    "block": "Mulanthuruthy",
+    "district": "Ernakulam"
+  },
+  "chottanikkara": {
+    "panchayat_raw": "Chottanikkara",
+    "block": "Mulanthuruthy",
+    "district": "Ernakulam"
+  },
+  "edakkattuvayal": {
+    "panchayat_raw": "Edakkattuvayal",
+    "block": "Mulanthuruthy",
+    "district": "Ernakulam"
+  },
+  "amballoor": {
+    "panchayat_raw": "Amballoor",
+    "block": "Mulanthuruthy",
+    "district": "Ernakulam"
+  },
+  "maneed": {
+    "panchayat_raw": "Maneed",
+    "block": "Mulanthuruthy",
+    "district": "Ernakulam"
+  },
+  "poothrikka": {
+    "panchayat_raw": "Poothrikka",
+    "block": "Vadavucode",
+    "district": "Ernakulam"
+  },
+  "thiruvaniyoor": {
+    "panchayat_raw": "Thiruvaniyoor",
+    "block": "Vadavucode",
+    "district": "Ernakulam"
+  },
+  "vadavucode puthencruz": {
+    "panchayat_raw": "Vadavucode Puthencruz",
+    "block": "Vadavucode",
+    "district": "Ernakulam"
+  },
+  "mazhuvannoor": {
+    "panchayat_raw": "Mazhuvannoor",
+    "block": "Vadavucode",
+    "district": "Ernakulam"
+  },
+  "aikaranad": {
+    "panchayat_raw": "Aikaranad",
+    "block": "Vadavucode",
+    "district": "Ernakulam"
+  },
+  "kunnathunad": {
+    "panchayat_raw": "Kunnathunad",
+    "block": "Vadavucode",
+    "district": "Ernakulam"
+  },
+  "paingottoor": {
+    "panchayat_raw": "Paingottoor",
+    "block": "Kothamangalam",
+    "district": "Ernakulam"
+  },
+  "nellikuzhi": {
+    "panchayat_raw": "Nellikuzhi",
+    "block": "Kothamangalam",
+    "district": "Ernakulam"
+  },
+  "pindimana": {
+    "panchayat_raw": "Pindimana",
+    "block": "Kothamangalam",
+    "district": "Ernakulam"
+  },
+  "kottappady": {
+    "panchayat_raw": "Kottappady",
+    "block": "Kothamangalam",
+    "district": "Ernakulam"
+  },
+  "kavalangad": {
+    "panchayat_raw": "Kavalangad",
+    "block": "Kothamangalam",
+    "district": "Ernakulam"
+  },
+  "varappetty": {
+    "panchayat_raw": "Varappetty",
+    "block": "Kothamangalam",
+    "district": "Ernakulam"
+  },
+  "keerampara": {
+    "panchayat_raw": "Keerampara",
+    "block": "Kothamangalam",
+    "district": "Ernakulam"
+  },
+  "pothanicad": {
+    "panchayat_raw": "Pothanicad",
+    "block": "Kothamangalam",
+    "district": "Ernakulam"
+  },
+  "pallarimangalam": {
+    "panchayat_raw": "Pallarimangalam",
+    "block": "Kothamangalam",
+    "district": "Ernakulam"
+  },
+  "kuttampuzha": {
+    "panchayat_raw": "Kuttampuzha",
+    "block": "Kothamangalam",
+    "district": "Ernakulam"
+  },
+  "elanji": {
+    "panchayat_raw": "Elanji",
+    "block": "Pampakuda",
+    "district": "Ernakulam"
+  },
+  "thirumarady": {
+    "panchayat_raw": "Thirumarady",
+    "block": "Pampakuda",
+    "district": "Ernakulam"
+  },
+  "palakuzha": {
+    "panchayat_raw": "Palakuzha",
+    "block": "Pampakuda",
+    "district": "Ernakulam"
+  },
+  "pampakuda": {
+    "panchayat_raw": "Pampakuda",
+    "block": "Pampakuda",
+    "district": "Ernakulam"
+  },
+  "ramamangalam": {
+    "panchayat_raw": "Ramamangalam",
+    "block": "Pampakuda",
+    "district": "Ernakulam"
+  },
+  "puthenvelikkara": {
+    "panchayat_raw": "Puthenvelikkara",
+    "block": "Parakkadavu",
+    "district": "Ernakulam"
+  },
+  "chengamanad": {
+    "panchayat_raw": "Chengamanad",
+    "block": "Parakkadavu",
+    "district": "Ernakulam"
+  },
+  "nedumbassery": {
+    "panchayat_raw": "Nedumbassery",
+    "block": "Parakkadavu",
+    "district": "Ernakulam"
+  },
+  "parakkadavu": {
+    "panchayat_raw": "Parakkadavu",
+    "block": "Parakkadavu",
+    "district": "Ernakulam"
+  },
+  "kunnukara": {
+    "panchayat_raw": "Kunnukara",
+    "block": "Parakkadavu",
+    "district": "Ernakulam"
+  },
+  "sreemoolanagaram": {
+    "panchayat_raw": "Sreemoolanagaram",
+    "block": "Parakkadavu",
+    "district": "Ernakulam"
+  },
+  "avoly": {
+    "panchayat_raw": "Avoly",
+    "block": "Muvattupuzha",
+    "district": "Ernakulam"
+  },
+  "arakuzha": {
+    "panchayat_raw": "Arakuzha",
+    "block": "Muvattupuzha",
+    "district": "Ernakulam"
+  },
+  "valakom": {
+    "panchayat_raw": "Valakom",
+    "block": "Muvattupuzha",
+    "district": "Ernakulam"
+  },
+  "paipra": {
+    "panchayat_raw": "Paipra",
+    "block": "Muvattupuzha",
+    "district": "Ernakulam"
+  },
+  "kalloorkad": {
+    "panchayat_raw": "Kalloorkad",
+    "block": "Muvattupuzha",
+    "district": "Ernakulam"
+  },
+  "ayavana": {
+    "panchayat_raw": "Ayavana",
+    "block": "Muvattupuzha",
+    "district": "Ernakulam"
+  },
+  "manjalloor": {
+    "panchayat_raw": "Manjalloor",
+    "block": "Muvattupuzha",
+    "district": "Ernakulam"
+  },
+  "marady": {
+    "panchayat_raw": "Marady",
+    "block": "Muvattupuzha",
+    "district": "Ernakulam"
+  },
+  "kadappuram": {
+    "panchayat_raw": "Kadappuram",
+    "block": "Chavakkad",
+    "district": "Thrissur"
+  },
+  "orumanayur": {
+    "panchayat_raw": "Orumanayur",
+    "block": "Chavakkad",
+    "district": "Thrissur"
+  },
+  "punnayur": {
+    "panchayat_raw": "Punnayur",
+    "block": "Chavakkad",
+    "district": "Thrissur"
+  },
+  "punnayurkulam": {
+    "panchayat_raw": "Punnayurkulam",
+    "block": "Chavakkad",
+    "district": "Thrissur"
+  },
+  "vadakkekkad": {
+    "panchayat_raw": "Vadakkekkad",
+    "block": "Chavakkad",
+    "district": "Thrissur"
+  },
+  "choondal": {
+    "panchayat_raw": "Choondal",
+    "block": "Chowannur",
+    "district": "Thrissur"
+  },
+  "chowannur": {
+    "panchayat_raw": "Chowannur",
+    "block": "Chowannur",
+    "district": "Thrissur"
+  },
+  "kadavallur": {
+    "panchayat_raw": "Kadavallur",
+    "block": "Chowannur",
+    "district": "Thrissur"
+  },
+  "kandanassery": {
+    "panchayat_raw": "Kandanassery",
+    "block": "Chowannur",
+    "district": "Thrissur"
+  },
+  "kattakampal": {
+    "panchayat_raw": "Kattakampal",
+    "block": "Chowannur",
+    "district": "Thrissur"
+  },
+  "porkulam": {
+    "panchayat_raw": "Porkulam",
+    "block": "Chowannur",
+    "district": "Thrissur"
+  },
+  "kadangode": {
+    "panchayat_raw": "Kadangode",
+    "block": "Chowannur",
+    "district": "Thrissur"
+  },
+  "velur": {
+    "panchayat_raw": "Velur",
+    "block": "Chowannur",
+    "district": "Thrissur"
+  },
+  "desamangalam": {
+    "panchayat_raw": "Desamangalam",
+    "block": "Wadakanchery",
+    "district": "Thrissur"
+  },
+  "erumapetty": {
+    "panchayat_raw": "Erumapetty",
+    "block": "Wadakanchery",
+    "district": "Thrissur"
+  },
+  "mullurkara": {
+    "panchayat_raw": "Mullurkara",
+    "block": "Wadakanchery",
+    "district": "Thrissur"
+  },
+  "thekkumkara": {
+    "panchayat_raw": "Thekkumkara",
+    "block": "Wadakanchery",
+    "district": "Thrissur"
+  },
+  "varavoor": {
+    "panchayat_raw": "Varavoor",
+    "block": "Wadakanchery",
+    "district": "Thrissur"
+  },
+  "chelakkara": {
+    "panchayat_raw": "Chelakkara",
+    "block": "Pazhayannur",
+    "district": "Thrissur"
+  },
+  "vallathol nagar": {
+    "panchayat_raw": "Vallathol Nagar",
+    "block": "Pazhayannur",
+    "district": "Thrissur"
+  },
+  "kondazhy": {
+    "panchayat_raw": "Kondazhy",
+    "block": "Pazhayannur",
+    "district": "Thrissur"
+  },
+  "panjal": {
+    "panchayat_raw": "Panjal",
+    "block": "Pazhayannur",
+    "district": "Thrissur"
+  },
+  "pazhayannur": {
+    "panchayat_raw": "Pazhayannur",
+    "block": "Pazhayannur",
+    "district": "Thrissur"
+  },
+  "thiruvilwamala": {
+    "panchayat_raw": "Thiruvilwamala",
+    "block": "Pazhayannur",
+    "district": "Thrissur"
+  },
+  "madakkathara": {
+    "panchayat_raw": "Madakkathara",
+    "block": "Ollukkara",
+    "district": "Thrissur"
+  },
+  "nadathara": {
+    "panchayat_raw": "Nadathara",
+    "block": "Ollukkara",
+    "district": "Thrissur"
+  },
+  "pananchery": {
+    "panchayat_raw": "Pananchery",
+    "block": "Ollukkara",
+    "district": "Thrissur"
+  },
+  "puthur": {
+    "panchayat_raw": "Puthur",
+    "block": "Ollukkara",
+    "district": "Thrissur"
+  },
+  "adat": {
+    "panchayat_raw": "Adat",
+    "block": "Puzhakkal",
+    "district": "Thrissur"
+  },
+  "avanur": {
+    "panchayat_raw": "Avanur",
+    "block": "Puzhakkal",
+    "district": "Thrissur"
+  },
+  "kaiparambu": {
+    "panchayat_raw": "Kaiparambu",
+    "block": "Puzhakkal",
+    "district": "Thrissur"
+  },
+  "mulakunnathukavu": {
+    "panchayat_raw": "Mulakunnathukavu",
+    "block": "Puzhakkal",
+    "district": "Thrissur"
+  },
+  "tholur": {
+    "panchayat_raw": "Tholur",
+    "block": "Puzhakkal",
+    "district": "Thrissur"
+  },
+  "kolazhy": {
+    "panchayat_raw": "Kolazhy",
+    "block": "Puzhakkal",
+    "district": "Thrissur"
+  },
+  "elavally": {
+    "panchayat_raw": "Elavally",
+    "block": "Mullassery",
+    "district": "Thrissur"
+  },
+  "mullassery": {
+    "panchayat_raw": "Mullassery",
+    "block": "Mullassery",
+    "district": "Thrissur"
+  },
+  "pavaratty": {
+    "panchayat_raw": "Pavaratty",
+    "block": "Mullassery",
+    "district": "Thrissur"
+  },
+  "venkitangu": {
+    "panchayat_raw": "Venkitangu",
+    "block": "Mullassery",
+    "district": "Thrissur"
+  },
+  "engandiyur": {
+    "panchayat_raw": "Engandiyur",
+    "block": "Thalikulam",
+    "district": "Thrissur"
+  },
+  "vatanappally": {
+    "panchayat_raw": "Vatanappally",
+    "block": "Thalikulam",
+    "district": "Thrissur"
+  },
+  "thalikulam": {
+    "panchayat_raw": "Thalikulam",
+    "block": "Thalikulam",
+    "district": "Thrissur"
+  },
+  "nattika": {
+    "panchayat_raw": "Nattika",
+    "block": "Thalikulam",
+    "district": "Thrissur"
+  },
+  "valapad": {
+    "panchayat_raw": "Valapad",
+    "block": "Thalikulam",
+    "district": "Thrissur"
+  },
+  "anthikad": {
+    "panchayat_raw": "Anthikad",
+    "block": "Anthikad",
+    "district": "Thrissur"
+  },
+  "thanniyam": {
+    "panchayat_raw": "Thanniyam",
+    "block": "Anthikad",
+    "district": "Thrissur"
+  },
+  "chazhur": {
+    "panchayat_raw": "Chazhur",
+    "block": "Anthikad",
+    "district": "Thrissur"
+  },
+  "manalur": {
+    "panchayat_raw": "Manalur",
+    "block": "Anthikad",
+    "district": "Thrissur"
+  },
+  "arimpur": {
+    "panchayat_raw": "Arimpur",
+    "block": "Anthikad",
+    "district": "Thrissur"
+  },
+  "avinissery": {
+    "panchayat_raw": "Avinissery",
+    "block": "Cherpu",
+    "district": "Thrissur"
+  },
+  "cherpu": {
+    "panchayat_raw": "Cherpu",
+    "block": "Cherpu",
+    "district": "Thrissur"
+  },
+  "paralam": {
+    "panchayat_raw": "Paralam",
+    "block": "Cherpu",
+    "district": "Thrissur"
+  },
+  "vallachira": {
+    "panchayat_raw": "Vallachira",
+    "block": "Cherpu",
+    "district": "Thrissur"
+  },
+  "alagappanagar": {
+    "panchayat_raw": "Alagappanagar",
+    "block": "Kodakara",
+    "district": "Thrissur"
+  },
+  "kodakara": {
+    "panchayat_raw": "Kodakara",
+    "block": "Kodakara",
+    "district": "Thrissur"
+  },
+  "mattathur": {
+    "panchayat_raw": "Mattathur",
+    "block": "Kodakara",
+    "district": "Thrissur"
+  },
+  "nenmanikkara": {
+    "panchayat_raw": "Nenmanikkara",
+    "block": "Kodakara",
+    "district": "Thrissur"
+  },
+  "pudukad": {
+    "panchayat_raw": "Pudukad",
+    "block": "Kodakara",
+    "district": "Thrissur"
+  },
+  "thrikkur": {
+    "panchayat_raw": "Thrikkur",
+    "block": "Kodakara",
+    "district": "Thrissur"
+  },
+  "varandarappilly": {
+    "panchayat_raw": "Varandarappilly",
+    "block": "Kodakara",
+    "district": "Thrissur"
+  },
+  "karalam": {
+    "panchayat_raw": "Karalam",
+    "block": "Irinjalakuda",
+    "district": "Thrissur"
+  },
+  "kattoor": {
+    "panchayat_raw": "Kattoor",
+    "block": "Irinjalakuda",
+    "district": "Thrissur"
+  },
+  "muriyad": {
+    "panchayat_raw": "Muriyad",
+    "block": "Irinjalakuda",
+    "district": "Thrissur"
+  },
+  "parappukkara": {
+    "panchayat_raw": "Parappukkara",
+    "block": "Irinjalakuda",
+    "district": "Thrissur"
+  },
+  "padiyur": {
+    "panchayat_raw": "Padiyur",
+    "block": "Vellangallur",
+    "district": "Thrissur"
+  },
+  "poomangalam": {
+    "panchayat_raw": "Poomangalam",
+    "block": "Vellangallur",
+    "district": "Thrissur"
+  },
+  "puthenchira": {
+    "panchayat_raw": "Puthenchira",
+    "block": "Vellangallur",
+    "district": "Thrissur"
+  },
+  "vellangallur": {
+    "panchayat_raw": "Vellangallur",
+    "block": "Vellangallur",
+    "district": "Thrissur"
+  },
+  "velukara": {
+    "panchayat_raw": "Velukara",
+    "block": "Vellangallur",
+    "district": "Thrissur"
+  },
+  "edathiruthy": {
+    "panchayat_raw": "Edathiruthy",
+    "block": "Mathilakam",
+    "district": "Thrissur"
+  },
+  "kaipamangalam": {
+    "panchayat_raw": "Kaipamangalam",
+    "block": "Mathilakam",
+    "district": "Thrissur"
+  },
+  "mathilakam": {
+    "panchayat_raw": "Mathilakam",
+    "block": "Mathilakam",
+    "district": "Thrissur"
+  },
+  "perinjanam": {
+    "panchayat_raw": "Perinjanam",
+    "block": "Mathilakam",
+    "district": "Thrissur"
+  },
+  "sreenarayanapuram": {
+    "panchayat_raw": "Sreenarayanapuram",
+    "block": "Mathilakam",
+    "district": "Thrissur"
+  },
+  "edavilangu": {
+    "panchayat_raw": "Edavilangu",
+    "block": "Mathilakam",
+    "district": "Thrissur"
+  },
+  "eriyad": {
+    "panchayat_raw": "Eriyad",
+    "block": "Mathilakam",
+    "district": "Thrissur"
+  },
+  "aloor": {
+    "panchayat_raw": "Aloor",
+    "block": "Mala",
+    "district": "Thrissur"
+  },
+  "annamanada": {
+    "panchayat_raw": "Annamanada",
+    "block": "Mala",
+    "district": "Thrissur"
+  },
+  "kuzhur": {
+    "panchayat_raw": "Kuzhur",
+    "block": "Mala",
+    "district": "Thrissur"
+  },
+  "mala": {
+    "panchayat_raw": "Mala",
+    "block": "Mala",
+    "district": "Thrissur"
+  },
+  "poyya": {
+    "panchayat_raw": "Poyya",
+    "block": "Mala",
+    "district": "Thrissur"
+  },
+  "kadukutty": {
+    "panchayat_raw": "Kadukutty",
+    "block": "Chalakudy",
+    "district": "Thrissur"
+  },
+  "kodassery": {
+    "panchayat_raw": "Kodassery",
+    "block": "Chalakudy",
+    "district": "Thrissur"
+  },
+  "koratty": {
+    "panchayat_raw": "Koratty",
+    "block": "Chalakudy",
+    "district": "Thrissur"
+  },
+  "meloor": {
+    "panchayat_raw": "Meloor",
+    "block": "Chalakudy",
+    "district": "Thrissur"
+  },
+  "pariyaram": {
+    "panchayat_raw": "Pariyaram",
+    "block": "Thalipparamba",
+    "district": "Kannur"
+  },
+  "athirappilly": {
+    "panchayat_raw": "Athirappilly",
+    "block": "Chalakudy",
+    "district": "Thrissur"
+  },
+  "anakkara": {
+    "panchayat_raw": "Anakkara",
+    "block": "Trithala",
+    "district": "Palakkad"
+  },
+  "chalissery": {
+    "panchayat_raw": "Chalissery",
+    "block": "Trithala",
+    "district": "Palakkad"
+  },
+  "kappur": {
+    "panchayat_raw": "Kappur",
+    "block": "Trithala",
+    "district": "Palakkad"
+  },
+  "nagalassery": {
+    "panchayat_raw": "Nagalassery",
+    "block": "Trithala",
+    "district": "Palakkad"
+  },
+  "pattithara": {
+    "panchayat_raw": "Pattithara",
+    "block": "Trithala",
+    "district": "Palakkad"
+  },
+  "thirumittacode": {
+    "panchayat_raw": "Thirumittacode",
+    "block": "Trithala",
+    "district": "Palakkad"
+  },
+  "trithala": {
+    "panchayat_raw": "Trithala",
+    "block": "Trithala",
+    "district": "Palakkad"
+  },
+  "koppam": {
+    "panchayat_raw": "Koppam",
+    "block": "Pattambi",
+    "district": "Palakkad"
+  },
+  "kulukkallur": {
+    "panchayat_raw": "Kulukkallur",
+    "block": "Pattambi",
+    "district": "Palakkad"
+  },
+  "muthuthala": {
+    "panchayat_raw": "Muthuthala",
+    "block": "Pattambi",
+    "district": "Palakkad"
+  },
+  "ongallur": {
+    "panchayat_raw": "Ongallur",
+    "block": "Pattambi",
+    "district": "Palakkad"
+  },
+  "paruthur": {
+    "panchayat_raw": "Paruthur",
+    "block": "Pattambi",
+    "district": "Palakkad"
+  },
+  "thiruvegappura": {
+    "panchayat_raw": "Thiruvegappura",
+    "block": "Pattambi",
+    "district": "Palakkad"
+  },
+  "vilayur": {
+    "panchayat_raw": "Vilayur",
+    "block": "Pattambi",
+    "district": "Palakkad"
+  },
+  "ambalappara": {
+    "panchayat_raw": "Ambalappara",
+    "block": "Ottapalam",
+    "district": "Palakkad"
+  },
+  "ananganadi": {
+    "panchayat_raw": "Ananganadi",
+    "block": "Ottapalam",
+    "district": "Palakkad"
+  },
+  "chalavara": {
+    "panchayat_raw": "Chalavara",
+    "block": "Ottapalam",
+    "district": "Palakkad"
+  },
+  "lakkidi - perur": {
+    "panchayat_raw": "Lakkidi - Perur",
+    "block": "Ottapalam",
+    "district": "Palakkad"
+  },
+  "vaniamkulam": {
+    "panchayat_raw": "Vaniamkulam",
+    "block": "Ottapalam",
+    "district": "Palakkad"
+  },
+  "trikkaderi": {
+    "panchayat_raw": "Trikkaderi",
+    "block": "Ottapalam",
+    "district": "Palakkad"
+  },
+  "vallapuzha": {
+    "panchayat_raw": "Vallapuzha",
+    "block": "Ottapalam",
+    "district": "Palakkad"
+  },
+  "nellaya": {
+    "panchayat_raw": "Nellaya",
+    "block": "Ottapalam",
+    "district": "Palakkad"
+  },
+  "kadampazhipuram": {
+    "panchayat_raw": "Kadampazhipuram",
+    "block": "Sreekrishnapuram",
+    "district": "Palakkad"
+  },
+  "karimpuzha": {
+    "panchayat_raw": "Karimpuzha",
+    "block": "Sreekrishnapuram",
+    "district": "Palakkad"
+  },
+  "pookkottukavu": {
+    "panchayat_raw": "Pookkottukavu",
+    "block": "Sreekrishnapuram",
+    "district": "Palakkad"
+  },
+  "sreekrishnapuram": {
+    "panchayat_raw": "Sreekrishnapuram",
+    "block": "Sreekrishnapuram",
+    "district": "Palakkad"
+  },
+  "vellinezhi": {
+    "panchayat_raw": "Vellinezhi",
+    "block": "Sreekrishnapuram",
+    "district": "Palakkad"
+  },
+  "karakurussi": {
+    "panchayat_raw": "Karakurussi",
+    "block": "Sreekrishnapuram",
+    "district": "Palakkad"
+  },
+  "alanallur": {
+    "panchayat_raw": "Alanallur",
+    "block": "Mannarkad",
+    "district": "Palakkad"
+  },
+  "karimba": {
+    "panchayat_raw": "Karimba",
+    "block": "Mannarkad",
+    "district": "Palakkad"
+  },
+  "kottopadam": {
+    "panchayat_raw": "Kottopadam",
+    "block": "Mannarkad",
+    "district": "Palakkad"
+  },
+  "kumaramputhur": {
+    "panchayat_raw": "Kumaramputhur",
+    "block": "Mannarkad",
+    "district": "Palakkad"
+  },
+  "kanhirapuzha": {
+    "panchayat_raw": "Kanhirapuzha",
+    "block": "Mannarkad",
+    "district": "Palakkad"
+  },
+  "thachanattukara": {
+    "panchayat_raw": "Thachanattukara",
+    "block": "Mannarkad",
+    "district": "Palakkad"
+  },
+  "tachampara": {
+    "panchayat_raw": "Tachampara",
+    "block": "Mannarkad",
+    "district": "Palakkad"
+  },
+  "thenkara": {
+    "panchayat_raw": "Thenkara",
+    "block": "Mannarkad",
+    "district": "Palakkad"
+  },
+  "agali": {
+    "panchayat_raw": "Agali",
+    "block": "Attappady",
+    "district": "Palakkad"
+  },
+  "pudur": {
+    "panchayat_raw": "Pudur",
+    "block": "Attappady",
+    "district": "Palakkad"
+  },
+  "sholayoor": {
+    "panchayat_raw": "Sholayoor",
+    "block": "Attappady",
+    "district": "Palakkad"
+  },
+  "keralassery": {
+    "panchayat_raw": "Keralassery",
+    "block": "Palakkad",
+    "district": "Palakkad"
+  },
+  "kongad": {
+    "panchayat_raw": "Kongad",
+    "block": "Palakkad",
+    "district": "Palakkad"
+  },
+  "mankara": {
+    "panchayat_raw": "Mankara",
+    "block": "Palakkad",
+    "district": "Palakkad"
+  },
+  "mannur": {
+    "panchayat_raw": "Mannur",
+    "block": "Palakkad",
+    "district": "Palakkad"
+  },
+  "mundur": {
+    "panchayat_raw": "Mundur",
+    "block": "Palakkad",
+    "district": "Palakkad"
+  },
+  "parali": {
+    "panchayat_raw": "Parali",
+    "block": "Palakkad",
+    "district": "Palakkad"
+  },
+  "pirayiri": {
+    "panchayat_raw": "Pirayiri",
+    "block": "Palakkad",
+    "district": "Palakkad"
+  },
+  "kottayi": {
+    "panchayat_raw": "Kottayi",
+    "block": "Kuzhalmannam",
+    "district": "Palakkad"
+  },
+  "kuthanur": {
+    "panchayat_raw": "Kuthanur",
+    "block": "Kuzhalmannam",
+    "district": "Palakkad"
+  },
+  "kuzhalmannam": {
+    "panchayat_raw": "Kuzhalmannam",
+    "block": "Kuzhalmannam",
+    "district": "Palakkad"
+  },
+  "mathur": {
+    "panchayat_raw": "Mathur",
+    "block": "Kuzhalmannam",
+    "district": "Palakkad"
+  },
+  "peringottukurissi": {
+    "panchayat_raw": "Peringottukurissi",
+    "block": "Kuzhalmannam",
+    "district": "Palakkad"
+  },
+  "thenkurissi": {
+    "panchayat_raw": "Thenkurissi",
+    "block": "Kuzhalmannam",
+    "district": "Palakkad"
+  },
+  "kannadi": {
+    "panchayat_raw": "Kannadi",
+    "block": "Kuzhalmannam",
+    "district": "Palakkad"
+  },
+  "eruthenpathy": {
+    "panchayat_raw": "Eruthenpathy",
+    "block": "Chittur",
+    "district": "Palakkad"
+  },
+  "kozhinjampara": {
+    "panchayat_raw": "Kozhinjampara",
+    "block": "Chittur",
+    "district": "Palakkad"
+  },
+  "nallepilly": {
+    "panchayat_raw": "Nallepilly",
+    "block": "Chittur",
+    "district": "Palakkad"
+  },
+  "perumatty": {
+    "panchayat_raw": "Perumatty",
+    "block": "Chittur",
+    "district": "Palakkad"
+  },
+  "vadakarapathy": {
+    "panchayat_raw": "Vadakarapathy",
+    "block": "Chittur",
+    "district": "Palakkad"
+  },
+  "elappully": {
+    "panchayat_raw": "Elappully",
+    "block": "Chittur",
+    "district": "Palakkad"
+  },
+  "polpully": {
+    "panchayat_raw": "Polpully",
+    "block": "Chittur",
+    "district": "Palakkad"
+  },
+  "kollengode": {
+    "panchayat_raw": "Kollengode",
+    "block": "Kollengode",
+    "district": "Palakkad"
+  },
+  "koduvayur": {
+    "panchayat_raw": "Koduvayur",
+    "block": "Kollengode",
+    "district": "Palakkad"
+  },
+  "muthalamada": {
+    "panchayat_raw": "Muthalamada",
+    "block": "Kollengode",
+    "district": "Palakkad"
+  },
+  "pudunagaram": {
+    "panchayat_raw": "Pudunagaram",
+    "block": "Kollengode",
+    "district": "Palakkad"
+  },
+  "vadavannur": {
+    "panchayat_raw": "Vadavannur",
+    "block": "Kollengode",
+    "district": "Palakkad"
+  },
+  "pattanchery": {
+    "panchayat_raw": "Pattanchery",
+    "block": "Kollengode",
+    "district": "Palakkad"
+  },
+  "peruvemba": {
+    "panchayat_raw": "Peruvemba",
+    "block": "Kollengode",
+    "district": "Palakkad"
+  },
+  "ayalur": {
+    "panchayat_raw": "Ayalur",
+    "block": "Nemmara",
+    "district": "Palakkad"
+  },
+  "nelliyampathy": {
+    "panchayat_raw": "Nelliyampathy",
+    "block": "Nemmara",
+    "district": "Palakkad"
+  },
+  "elavancherry": {
+    "panchayat_raw": "Elavancherry",
+    "block": "Nemmara",
+    "district": "Palakkad"
+  },
+  "pallassana": {
+    "panchayat_raw": "Pallassana",
+    "block": "Nemmara",
+    "district": "Palakkad"
+  },
+  "melarcode": {
+    "panchayat_raw": "Melarcode",
+    "block": "Nemmara",
+    "district": "Palakkad"
+  },
+  "nemmara": {
+    "panchayat_raw": "Nemmara",
+    "block": "Nemmara",
+    "district": "Palakkad"
+  },
+  "vandazhy": {
+    "panchayat_raw": "Vandazhy",
+    "block": "Nemmara",
+    "district": "Palakkad"
+  },
+  "alathur": {
+    "panchayat_raw": "Alathur",
+    "block": "Alathur",
+    "district": "Palakkad"
+  },
+  "erimayur": {
+    "panchayat_raw": "Erimayur",
+    "block": "Alathur",
+    "district": "Palakkad"
+  },
+  "kavassery": {
+    "panchayat_raw": "Kavassery",
+    "block": "Alathur",
+    "district": "Palakkad"
+  },
+  "kizhakkencherry": {
+    "panchayat_raw": "Kizhakkencherry",
+    "block": "Alathur",
+    "district": "Palakkad"
+  },
+  "puducode": {
+    "panchayat_raw": "Puducode",
+    "block": "Alathur",
+    "district": "Palakkad"
+  },
+  "tarur": {
+    "panchayat_raw": "Tarur",
+    "block": "Alathur",
+    "district": "Palakkad"
+  },
+  "vadakkenchery": {
+    "panchayat_raw": "Vadakkenchery",
+    "block": "Alathur",
+    "district": "Palakkad"
+  },
+  "kannambra": {
+    "panchayat_raw": "Kannambra",
+    "block": "Alathur",
+    "district": "Palakkad"
+  },
+  "akathethara": {
+    "panchayat_raw": "Akathethara",
+    "block": "Malampuzha",
+    "district": "Palakkad"
+  },
+  "malampuzha": {
+    "panchayat_raw": "Malampuzha",
+    "block": "Malampuzha",
+    "district": "Palakkad"
+  },
+  "marutharode": {
+    "panchayat_raw": "Marutharode",
+    "block": "Malampuzha",
+    "district": "Palakkad"
+  },
+  "puduppariyaram": {
+    "panchayat_raw": "Puduppariyaram",
+    "block": "Malampuzha",
+    "district": "Palakkad"
+  },
+  "pudusseri": {
+    "panchayat_raw": "Pudusseri",
+    "block": "Malampuzha",
+    "district": "Palakkad"
+  },
+  "kodumbu": {
+    "panchayat_raw": "Kodumbu",
+    "block": "Malampuzha",
+    "district": "Palakkad"
+  },
+  "chaliyar": {
+    "panchayat_raw": "Chaliyar",
+    "block": "Nilambur",
+    "district": "Malappuram"
+  },
+  "chungathara": {
+    "panchayat_raw": "Chungathara",
+    "block": "Nilambur",
+    "district": "Malappuram"
+  },
+  "moothedam": {
+    "panchayat_raw": "Moothedam",
+    "block": "Nilambur",
+    "district": "Malappuram"
+  },
+  "vazhikkadavu": {
+    "panchayat_raw": "Vazhikkadavu",
+    "block": "Nilambur",
+    "district": "Malappuram"
+  },
+  "edakkara": {
+    "panchayat_raw": "Edakkara",
+    "block": "Nilambur",
+    "district": "Malappuram"
+  },
+  "pothukallu": {
+    "panchayat_raw": "Pothukallu",
+    "block": "Nilambur",
+    "district": "Malappuram"
+  },
+  "amarambalam": {
+    "panchayat_raw": "Amarambalam",
+    "block": "Kalikavu",
+    "district": "Malappuram"
+  },
+  "karulai": {
+    "panchayat_raw": "Karulai",
+    "block": "Kalikavu",
+    "district": "Malappuram"
+  },
+  "kalikavu": {
+    "panchayat_raw": "Kalikavu",
+    "block": "Kalikavu",
+    "district": "Malappuram"
+  },
+  "chokkad": {
+    "panchayat_raw": "Chokkad",
+    "block": "Kalikavu",
+    "district": "Malappuram"
+  },
+  "karuvarakundu": {
+    "panchayat_raw": "Karuvarakundu",
+    "block": "Kalikavu",
+    "district": "Malappuram"
+  },
+  "tuvvur": {
+    "panchayat_raw": "Tuvvur",
+    "block": "Kalikavu",
+    "district": "Malappuram"
+  },
+  "edappatta": {
+    "panchayat_raw": "Edappatta",
+    "block": "Kalikavu",
+    "district": "Malappuram"
+  },
+  "mampad": {
+    "panchayat_raw": "Mampad",
+    "block": "Wandoor",
+    "district": "Malappuram"
+  },
+  "pandikkad": {
+    "panchayat_raw": "Pandikkad",
+    "block": "Wandoor",
+    "district": "Malappuram"
+  },
+  "porur": {
+    "panchayat_raw": "Porur",
+    "block": "Wandoor",
+    "district": "Malappuram"
+  },
+  "thrikkalangodu": {
+    "panchayat_raw": "Thrikkalangodu",
+    "block": "Wandoor",
+    "district": "Malappuram"
+  },
+  "thiruvali": {
+    "panchayat_raw": "Thiruvali",
+    "block": "Wandoor",
+    "district": "Malappuram"
+  },
+  "wandoor": {
+    "panchayat_raw": "Wandoor",
+    "block": "Wandoor",
+    "district": "Malappuram"
+  },
+  "chelembra": {
+    "panchayat_raw": "Chelembra",
+    "block": "Kondotty",
+    "district": "Malappuram"
+  },
+  "cherukavu": {
+    "panchayat_raw": "Cherukavu",
+    "block": "Kondotty",
+    "district": "Malappuram"
+  },
+  "pallikkal": {
+    "panchayat_raw": "Pallikkal",
+    "block": "Kondotty",
+    "district": "Malappuram"
+  },
+  "vazhayur": {
+    "panchayat_raw": "Vazhayur",
+    "block": "Kondotty",
+    "district": "Malappuram"
+  },
+  "vazhakkad": {
+    "panchayat_raw": "Vazhakkad",
+    "block": "Kondotty",
+    "district": "Malappuram"
+  },
+  "pulikkal": {
+    "panchayat_raw": "Pulikkal",
+    "block": "Kondotty",
+    "district": "Malappuram"
+  },
+  "muthuvalloor": {
+    "panchayat_raw": "Muthuvalloor",
+    "block": "Kondotty",
+    "district": "Malappuram"
+  },
+  "urangattiri": {
+    "panchayat_raw": "Urangattiri",
+    "block": "Areacode",
+    "district": "Malappuram"
+  },
+  "kavanur": {
+    "panchayat_raw": "Kavanur",
+    "block": "Areacode",
+    "district": "Malappuram"
+  },
+  "keezhuparamba": {
+    "panchayat_raw": "Keezhuparamba",
+    "block": "Areacode",
+    "district": "Malappuram"
+  },
+  "pulpatta": {
+    "panchayat_raw": "Pulpatta",
+    "block": "Areacode",
+    "district": "Malappuram"
+  },
+  "cheacode": {
+    "panchayat_raw": "Cheacode",
+    "block": "Areacode",
+    "district": "Malappuram"
+  },
+  "kuzhimanna": {
+    "panchayat_raw": "Kuzhimanna",
+    "block": "Areacode",
+    "district": "Malappuram"
+  },
+  "areacode": {
+    "panchayat_raw": "Areacode",
+    "block": "Areacode",
+    "district": "Malappuram"
+  },
+  "edavanna": {
+    "panchayat_raw": "Edavanna",
+    "block": "Areacode",
+    "district": "Malappuram"
+  },
+  "anakkayam": {
+    "panchayat_raw": "Anakkayam",
+    "block": "Malappuram",
+    "district": "Malappuram"
+  },
+  "morayur": {
+    "panchayat_raw": "Morayur",
+    "block": "Malappuram",
+    "district": "Malappuram"
+  },
+  "ponmala": {
+    "panchayat_raw": "Ponmala",
+    "block": "Malappuram",
+    "district": "Malappuram"
+  },
+  "pookkottur": {
+    "panchayat_raw": "Pookkottur",
+    "block": "Malappuram",
+    "district": "Malappuram"
+  },
+  "kodur": {
+    "panchayat_raw": "Kodur",
+    "block": "Malappuram",
+    "district": "Malappuram"
+  },
+  "othukkungal": {
+    "panchayat_raw": "Othukkungal",
+    "block": "Malappuram",
+    "district": "Malappuram"
+  },
+  "aliparamba": {
+    "panchayat_raw": "Aliparamba",
+    "block": "Perinthalmanna",
+    "district": "Malappuram"
+  },
+  "elamkulam": {
+    "panchayat_raw": "Elamkulam",
+    "block": "Perinthalmanna",
+    "district": "Malappuram"
+  },
+  "melattur": {
+    "panchayat_raw": "Melattur",
+    "block": "Perinthalmanna",
+    "district": "Malappuram"
+  },
+  "keezhattur": {
+    "panchayat_raw": "Keezhattur",
+    "block": "Perinthalmanna",
+    "district": "Malappuram"
+  },
+  "thazhekkode": {
+    "panchayat_raw": "Thazhekkode",
+    "block": "Perinthalmanna",
+    "district": "Malappuram"
+  },
+  "vettathur": {
+    "panchayat_raw": "Vettathur",
+    "block": "Perinthalmanna",
+    "district": "Malappuram"
+  },
+  "pulamanthole": {
+    "panchayat_raw": "Pulamanthole",
+    "block": "Perinthalmanna",
+    "district": "Malappuram"
+  },
+  "angadippuram": {
+    "panchayat_raw": "Angadippuram",
+    "block": "Perinthalmanna",
+    "district": "Malappuram"
+  },
+  "kuruva": {
+    "panchayat_raw": "Kuruva",
+    "block": "Mankada",
+    "district": "Malappuram"
+  },
+  "mankada": {
+    "panchayat_raw": "Mankada",
+    "block": "Mankada",
+    "district": "Malappuram"
+  },
+  "makkaraparamba": {
+    "panchayat_raw": "Makkaraparamba",
+    "block": "Mankada",
+    "district": "Malappuram"
+  },
+  "moorkkanad": {
+    "panchayat_raw": "Moorkkanad",
+    "block": "Mankada",
+    "district": "Malappuram"
+  },
+  "koottilangadi": {
+    "panchayat_raw": "Koottilangadi",
+    "block": "Mankada",
+    "district": "Malappuram"
+  },
+  "puzhakkattiri": {
+    "panchayat_raw": "Puzhakkattiri",
+    "block": "Mankada",
+    "district": "Malappuram"
+  },
+  "athavanad": {
+    "panchayat_raw": "Athavanad",
+    "block": "Kuttippuram",
+    "district": "Malappuram"
+  },
+  "edayur": {
+    "panchayat_raw": "Edayur",
+    "block": "Kuttippuram",
+    "district": "Malappuram"
+  },
+  "irimbiliyam": {
+    "panchayat_raw": "Irimbiliyam",
+    "block": "Kuttippuram",
+    "district": "Malappuram"
+  },
+  "marakkara": {
+    "panchayat_raw": "Marakkara",
+    "block": "Kuttippuram",
+    "district": "Malappuram"
+  },
+  "kuttipuram": {
+    "panchayat_raw": "Kuttipuram",
+    "block": "Kuttippuram",
+    "district": "Malappuram"
+  },
+  "kalpakanchery": {
+    "panchayat_raw": "Kalpakanchery",
+    "block": "Kuttippuram",
+    "district": "Malappuram"
+  },
+  "abdurahiman nagar": {
+    "panchayat_raw": "Abdurahiman Nagar",
+    "block": "Vengara",
+    "district": "Malappuram"
+  },
+  "edarikode": {
+    "panchayat_raw": "Edarikode",
+    "block": "Vengara",
+    "district": "Malappuram"
+  },
+  "parappur": {
+    "panchayat_raw": "Parappur",
+    "block": "Vengara",
+    "district": "Malappuram"
+  },
+  "thennala": {
+    "panchayat_raw": "Thennala",
+    "block": "Vengara",
+    "district": "Malappuram"
+  },
+  "vengara": {
+    "panchayat_raw": "Vengara",
+    "block": "Vengara",
+    "district": "Malappuram"
+  },
+  "kannamangalam": {
+    "panchayat_raw": "Kannamangalam",
+    "block": "Vengara",
+    "district": "Malappuram"
+  },
+  "oorakam": {
+    "panchayat_raw": "Oorakam",
+    "block": "Vengara",
+    "district": "Malappuram"
+  },
+  "thenhipalam": {
+    "panchayat_raw": "Thenhipalam",
+    "block": "Tirurangadi",
+    "district": "Malappuram"
+  },
+  "vallikkunnu": {
+    "panchayat_raw": "Vallikkunnu",
+    "block": "Tirurangadi",
+    "district": "Malappuram"
+  },
+  "moonniyur": {
+    "panchayat_raw": "Moonniyur",
+    "block": "Tirurangadi",
+    "district": "Malappuram"
+  },
+  "nannambra": {
+    "panchayat_raw": "Nannambra",
+    "block": "Tirurangadi",
+    "district": "Malappuram"
+  },
+  "peruvalloor": {
+    "panchayat_raw": "Peruvalloor",
+    "block": "Tirurangadi",
+    "district": "Malappuram"
+  },
+  "cheriyamundam": {
+    "panchayat_raw": "Cheriyamundam",
+    "block": "Tanur",
+    "district": "Malappuram"
+  },
+  "ozhur": {
+    "panchayat_raw": "Ozhur",
+    "block": "Tanur",
+    "district": "Malappuram"
+  },
+  "tanalur": {
+    "panchayat_raw": "Tanalur",
+    "block": "Tanur",
+    "district": "Malappuram"
+  },
+  "valavannur": {
+    "panchayat_raw": "Valavannur",
+    "block": "Tanur",
+    "district": "Malappuram"
+  },
+  "ponmundam": {
+    "panchayat_raw": "Ponmundam",
+    "block": "Tanur",
+    "district": "Malappuram"
+  },
+  "niramaruthur": {
+    "panchayat_raw": "Niramaruthur",
+    "block": "Tanur",
+    "district": "Malappuram"
+  },
+  "perumanna klari": {
+    "panchayat_raw": "Perumanna Klari",
+    "block": "Tanur",
+    "district": "Malappuram"
+  },
+  "purathur": {
+    "panchayat_raw": "Purathur",
+    "block": "Tirur",
+    "district": "Malappuram"
+  },
+  "thalakkad": {
+    "panchayat_raw": "Thalakkad",
+    "block": "Tirur",
+    "district": "Malappuram"
+  },
+  "triprangode": {
+    "panchayat_raw": "Triprangode",
+    "block": "Tirur",
+    "district": "Malappuram"
+  },
+  "vettom": {
+    "panchayat_raw": "Vettom",
+    "block": "Tirur",
+    "district": "Malappuram"
+  },
+  "thirunavaya": {
+    "panchayat_raw": "Thirunavaya",
+    "block": "Tirur",
+    "district": "Malappuram"
+  },
+  "mangalam": {
+    "panchayat_raw": "Mangalam",
+    "block": "Tirur",
+    "district": "Malappuram"
+  },
+  "tavanur": {
+    "panchayat_raw": "Tavanur",
+    "block": "Ponnani",
+    "district": "Malappuram"
+  },
+  "vattamkulam": {
+    "panchayat_raw": "Vattamkulam",
+    "block": "Ponnani",
+    "district": "Malappuram"
+  },
+  "edapal": {
+    "panchayat_raw": "Edapal",
+    "block": "Ponnani",
+    "district": "Malappuram"
+  },
+  "kaladi": {
+    "panchayat_raw": "Kaladi",
+    "block": "Ponnani",
+    "district": "Malappuram"
+  },
+  "alamkode": {
+    "panchayat_raw": "Alamkode",
+    "block": "Perumpadappa",
+    "district": "Malappuram"
+  },
+  "maranchery": {
+    "panchayat_raw": "Maranchery",
+    "block": "Perumpadappa",
+    "district": "Malappuram"
+  },
+  "nannammukku": {
+    "panchayat_raw": "Nannammukku",
+    "block": "Perumpadappa",
+    "district": "Malappuram"
+  },
+  "perumpadappa": {
+    "panchayat_raw": "Perumpadappa",
+    "block": "Perumpadappa",
+    "district": "Malappuram"
+  },
+  "veliancode": {
+    "panchayat_raw": "Veliancode",
+    "block": "Perumpadappa",
+    "district": "Malappuram"
+  },
+  "azhiyur": {
+    "panchayat_raw": "Azhiyur",
+    "block": "Vatakara",
+    "district": "Kozhikkode"
+  },
+  "chorode": {
+    "panchayat_raw": "Chorode",
+    "block": "Vatakara",
+    "district": "Kozhikkode"
+  },
+  "eramala": {
+    "panchayat_raw": "Eramala",
+    "block": "Vatakara",
+    "district": "Kozhikkode"
+  },
+  "onchiyam": {
+    "panchayat_raw": "Onchiyam",
+    "block": "Vatakara",
+    "district": "Kozhikkode"
+  },
+  "chekkiad": {
+    "panchayat_raw": "Chekkiad",
+    "block": "Tuneri",
+    "district": "Kozhikkode"
+  },
+  "edacheri": {
+    "panchayat_raw": "Edacheri",
+    "block": "Tuneri",
+    "district": "Kozhikkode"
+  },
+  "purameri": {
+    "panchayat_raw": "Purameri",
+    "block": "Tuneri",
+    "district": "Kozhikkode"
+  },
+  "tuneri": {
+    "panchayat_raw": "Tuneri",
+    "block": "Tuneri",
+    "district": "Kozhikkode"
+  },
+  "valayam": {
+    "panchayat_raw": "Valayam",
+    "block": "Tuneri",
+    "district": "Kozhikkode"
+  },
+  "vanimal": {
+    "panchayat_raw": "Vanimal",
+    "block": "Tuneri",
+    "district": "Kozhikkode"
+  },
+  "nadapuram": {
+    "panchayat_raw": "Nadapuram",
+    "block": "Tuneri",
+    "district": "Kozhikkode"
+  },
+  "kunnummal": {
+    "panchayat_raw": "Kunnummal",
+    "block": "Kunnummal",
+    "district": "Kozhikkode"
+  },
+  "kayakkody": {
+    "panchayat_raw": "Kayakkody",
+    "block": "Kunnummal",
+    "district": "Kozhikkode"
+  },
+  "kavilumpara": {
+    "panchayat_raw": "Kavilumpara",
+    "block": "Kunnummal",
+    "district": "Kozhikkode"
+  },
+  "kuttiadi": {
+    "panchayat_raw": "Kuttiadi",
+    "block": "Kunnummal",
+    "district": "Kozhikkode"
+  },
+  "maruthonkara": {
+    "panchayat_raw": "Maruthonkara",
+    "block": "Kunnummal",
+    "district": "Kozhikkode"
+  },
+  "velom": {
+    "panchayat_raw": "Velom",
+    "block": "Kunnummal",
+    "district": "Kozhikkode"
+  },
+  "narippatta": {
+    "panchayat_raw": "Narippatta",
+    "block": "Kunnummal",
+    "district": "Kozhikkode"
+  },
+  "ayancheri": {
+    "panchayat_raw": "Ayancheri",
+    "block": "Thodannur",
+    "district": "Kozhikkode"
+  },
+  "villiappally": {
+    "panchayat_raw": "Villiappally",
+    "block": "Thodannur",
+    "district": "Kozhikkode"
+  },
+  "maniyur": {
+    "panchayat_raw": "Maniyur",
+    "block": "Thodannur",
+    "district": "Kozhikkode"
+  },
+  "thiruvallur": {
+    "panchayat_raw": "Thiruvallur",
+    "block": "Thodannur",
+    "district": "Kozhikkode"
+  },
+  "thurayur": {
+    "panchayat_raw": "Thurayur",
+    "block": "Melady",
+    "district": "Kozhikkode"
+  },
+  "keezhariyur": {
+    "panchayat_raw": "Keezhariyur",
+    "block": "Melady",
+    "district": "Kozhikkode"
+  },
+  "thikkodi": {
+    "panchayat_raw": "Thikkodi",
+    "block": "Melady",
+    "district": "Kozhikkode"
+  },
+  "meppayur": {
+    "panchayat_raw": "Meppayur",
+    "block": "Melady",
+    "district": "Kozhikkode"
+  },
+  "cheruvannur": {
+    "panchayat_raw": "Cheruvannur",
+    "block": "Perambra",
+    "district": "Kozhikkode"
+  },
+  "nochad": {
+    "panchayat_raw": "Nochad",
+    "block": "Perambra",
+    "district": "Kozhikkode"
+  },
+  "changaroth": {
+    "panchayat_raw": "Changaroth",
+    "block": "Perambra",
+    "district": "Kozhikkode"
+  },
+  "kayanna": {
+    "panchayat_raw": "Kayanna",
+    "block": "Perambra",
+    "district": "Kozhikkode"
+  },
+  "koothali": {
+    "panchayat_raw": "Koothali",
+    "block": "Perambra",
+    "district": "Kozhikkode"
+  },
+  "perambra": {
+    "panchayat_raw": "Perambra",
+    "block": "Perambra",
+    "district": "Kozhikkode"
+  },
+  "chakkittapara": {
+    "panchayat_raw": "Chakkittapara",
+    "block": "Perambra",
+    "district": "Kozhikkode"
+  },
+  "balussery": {
+    "panchayat_raw": "Balussery",
+    "block": "Balussery",
+    "district": "Kozhikkode"
+  },
+  "naduvannur": {
+    "panchayat_raw": "Naduvannur",
+    "block": "Balussery",
+    "district": "Kozhikkode"
+  },
+  "ulliyeri": {
+    "panchayat_raw": "Ulliyeri",
+    "block": "Balussery",
+    "district": "Kozhikkode"
+  },
+  "kottur": {
+    "panchayat_raw": "Kottur",
+    "block": "Balussery",
+    "district": "Kozhikkode"
+  },
+  "unnikulum": {
+    "panchayat_raw": "Unnikulum",
+    "block": "Balussery",
+    "district": "Kozhikkode"
+  },
+  "panangad": {
+    "panchayat_raw": "Panangad",
+    "block": "Balussery",
+    "district": "Kozhikkode"
+  },
+  "koorachundu": {
+    "panchayat_raw": "Koorachundu",
+    "block": "Balussery",
+    "district": "Kozhikkode"
+  },
+  "chemanchery": {
+    "panchayat_raw": "Chemanchery",
+    "block": "Panthalayani",
+    "district": "Kozhikkode"
+  },
+  "arikkulam": {
+    "panchayat_raw": "Arikkulam",
+    "block": "Panthalayani",
+    "district": "Kozhikkode"
+  },
+  "moodadi": {
+    "panchayat_raw": "Moodadi",
+    "block": "Panthalayani",
+    "district": "Kozhikkode"
+  },
+  "chengottukavu": {
+    "panchayat_raw": "Chengottukavu",
+    "block": "Panthalayani",
+    "district": "Kozhikkode"
+  },
+  "atholi": {
+    "panchayat_raw": "Atholi",
+    "block": "Panthalayani",
+    "district": "Kozhikkode"
+  },
+  "kakkodi": {
+    "panchayat_raw": "Kakkodi",
+    "block": "Chelannur",
+    "district": "Kozhikkode"
+  },
+  "chelannur": {
+    "panchayat_raw": "Chelannur",
+    "block": "Chelannur",
+    "district": "Kozhikkode"
+  },
+  "kakkur": {
+    "panchayat_raw": "Kakkur",
+    "block": "Chelannur",
+    "district": "Kozhikkode"
+  },
+  "nanminda": {
+    "panchayat_raw": "Nanminda",
+    "block": "Chelannur",
+    "district": "Kozhikkode"
+  },
+  "narikunni": {
+    "panchayat_raw": "Narikunni",
+    "block": "Chelannur",
+    "district": "Kozhikkode"
+  },
+  "thalakulathur": {
+    "panchayat_raw": "Thalakulathur",
+    "block": "Chelannur",
+    "district": "Kozhikkode"
+  },
+  "thiruvambadi": {
+    "panchayat_raw": "Thiruvambadi",
+    "block": "Koduvally",
+    "district": "Kozhikkode"
+  },
+  "koodaranhi": {
+    "panchayat_raw": "Koodaranhi",
+    "block": "Koduvally",
+    "district": "Kozhikkode"
+  },
+  "kizhakkoth": {
+    "panchayat_raw": "Kizhakkoth",
+    "block": "Koduvally",
+    "district": "Kozhikkode"
+  },
+  "puduppady": {
+    "panchayat_raw": "Puduppady",
+    "block": "Koduvally",
+    "district": "Kozhikkode"
+  },
+  "thamarassery": {
+    "panchayat_raw": "Thamarassery",
+    "block": "Koduvally",
+    "district": "Kozhikkode"
+  },
+  "omassery": {
+    "panchayat_raw": "Omassery",
+    "block": "Koduvally",
+    "district": "Kozhikkode"
+  },
+  "kattippara": {
+    "panchayat_raw": "Kattippara",
+    "block": "Koduvally",
+    "district": "Kozhikkode"
+  },
+  "kodanchery": {
+    "panchayat_raw": "Kodanchery",
+    "block": "Koduvally",
+    "district": "Kozhikkode"
+  },
+  "kodiyathur": {
+    "panchayat_raw": "Kodiyathur",
+    "block": "Kunnamangalam",
+    "district": "Kozhikkode"
+  },
+  "kuruvattoor": {
+    "panchayat_raw": "Kuruvattoor",
+    "block": "Kunnamangalam",
+    "district": "Kozhikkode"
+  },
+  "mavoor": {
+    "panchayat_raw": "Mavoor",
+    "block": "Kunnamangalam",
+    "district": "Kozhikkode"
+  },
+  "karassery": {
+    "panchayat_raw": "Karassery",
+    "block": "Kunnamangalam",
+    "district": "Kozhikkode"
+  },
+  "kunnamangalam": {
+    "panchayat_raw": "Kunnamangalam",
+    "block": "Kunnamangalam",
+    "district": "Kozhikkode"
+  },
+  "chathamangalam": {
+    "panchayat_raw": "Chathamangalam",
+    "block": "Kunnamangalam",
+    "district": "Kozhikkode"
+  },
+  "peruvayal": {
+    "panchayat_raw": "Peruvayal",
+    "block": "Kunnamangalam",
+    "district": "Kozhikkode"
+  },
+  "perumanna": {
+    "panchayat_raw": "Perumanna",
+    "block": "Kunnamangalam",
+    "district": "Kozhikkode"
+  },
+  "kadalundi": {
+    "panchayat_raw": "Kadalundi",
+    "block": "Kozhikkode",
+    "district": "Kozhikkode"
+  },
+  "olavanna": {
+    "panchayat_raw": "Olavanna",
+    "block": "Kozhikkode",
+    "district": "Kozhikkode"
+  },
+  "vellamunda": {
+    "panchayat_raw": "Vellamunda",
+    "block": "Mananthavady",
+    "district": "Wayanad"
+  },
+  "thirunelly": {
+    "panchayat_raw": "Thirunelly",
+    "block": "Mananthavady",
+    "district": "Wayanad"
+  },
+  "thondernad": {
+    "panchayat_raw": "Thondernad",
+    "block": "Mananthavady",
+    "district": "Wayanad"
+  },
+  "edavaka": {
+    "panchayat_raw": "Edavaka",
+    "block": "Mananthavady",
+    "district": "Wayanad"
+  },
+  "thavinhal": {
+    "panchayat_raw": "Thavinhal",
+    "block": "Mananthavady",
+    "district": "Wayanad"
+  },
+  "panamaram": {
+    "panchayat_raw": "Panamaram",
+    "block": "Panamaram",
+    "district": "Wayanad"
+  },
+  "poothadi": {
+    "panchayat_raw": "Poothadi",
+    "block": "Panamaram",
+    "district": "Wayanad"
+  },
+  "mullankolly": {
+    "panchayat_raw": "Mullankolly",
+    "block": "Panamaram",
+    "district": "Wayanad"
+  },
+  "pulpally": {
+    "panchayat_raw": "Pulpally",
+    "block": "Panamaram",
+    "district": "Wayanad"
+  },
+  "kaniyambetta": {
+    "panchayat_raw": "Kaniyambetta",
+    "block": "Panamaram",
+    "district": "Wayanad"
+  },
+  "meenangadi sulthan": {
+    "panchayat_raw": "Meenangadi Sulthan",
+    "block": "Bathery",
+    "district": "Wayanad"
+  },
+  "nenmeni sulthan": {
+    "panchayat_raw": "Nenmeni Sulthan",
+    "block": "Bathery",
+    "district": "Wayanad"
+  },
+  "ambalavayal sulthan": {
+    "panchayat_raw": "Ambalavayal Sulthan",
+    "block": "Bathery",
+    "district": "Wayanad"
+  },
+  "noolpuzha sulthan": {
+    "panchayat_raw": "Noolpuzha Sulthan",
+    "block": "Bathery",
+    "district": "Wayanad"
+  },
+  "kottathara": {
+    "panchayat_raw": "Kottathara",
+    "block": "Kalpetta",
+    "district": "Wayanad"
+  },
+  "vengappally": {
+    "panchayat_raw": "Vengappally",
+    "block": "Kalpetta",
+    "district": "Wayanad"
+  },
+  "vythiri": {
+    "panchayat_raw": "Vythiri",
+    "block": "Kalpetta",
+    "district": "Wayanad"
+  },
+  "muttil": {
+    "panchayat_raw": "Muttil",
+    "block": "Kalpetta",
+    "district": "Wayanad"
+  },
+  "pozhuthana": {
+    "panchayat_raw": "Pozhuthana",
+    "block": "Kalpetta",
+    "district": "Wayanad"
+  },
+  "thariode": {
+    "panchayat_raw": "Thariode",
+    "block": "Kalpetta",
+    "district": "Wayanad"
+  },
+  "padinharathara": {
+    "panchayat_raw": "Padinharathara",
+    "block": "Kalpetta",
+    "district": "Wayanad"
+  },
+  "meppadi": {
+    "panchayat_raw": "Meppadi",
+    "block": "Kalpetta",
+    "district": "Wayanad"
+  },
+  "muppainad": {
+    "panchayat_raw": "Muppainad",
+    "block": "Kalpetta",
+    "district": "Wayanad"
+  },
+  "kunhimangalam": {
+    "panchayat_raw": "Kunhimangalam",
+    "block": "Payyannur",
+    "district": "Kannur"
+  },
+  "ramanthali": {
+    "panchayat_raw": "Ramanthali",
+    "block": "Payyannur",
+    "district": "Kannur"
+  },
+  "karivellur peralam": {
+    "panchayat_raw": "Karivellur Peralam",
+    "block": "Payyannur",
+    "district": "Kannur"
+  },
+  "kankol - alappadamba": {
+    "panchayat_raw": "Kankol - Alappadamba",
+    "block": "Payyannur",
+    "district": "Kannur"
+  },
+  "eramam kuttur": {
+    "panchayat_raw": "Eramam Kuttur",
+    "block": "Payyannur",
+    "district": "Kannur"
+  },
+  "peringome vayakkara": {
+    "panchayat_raw": "Peringome Vayakkara",
+    "block": "Payyannur",
+    "district": "Kannur"
+  },
+  "cherupuzha": {
+    "panchayat_raw": "Cherupuzha",
+    "block": "Payyannur",
+    "district": "Kannur"
+  },
+  "cheruthazham": {
+    "panchayat_raw": "Cheruthazham",
+    "block": "Kalliasseri",
+    "district": "Kannur"
+  },
+  "ezhome": {
+    "panchayat_raw": "Ezhome",
+    "block": "Kalliasseri",
+    "district": "Kannur"
+  },
+  "madayi": {
+    "panchayat_raw": "Madayi",
+    "block": "Kalliasseri",
+    "district": "Kannur"
+  },
+  "mattool": {
+    "panchayat_raw": "Mattool",
+    "block": "Kalliasseri",
+    "district": "Kannur"
+  },
+  "cherukunnu": {
+    "panchayat_raw": "Cherukunnu",
+    "block": "Kalliasseri",
+    "district": "Kannur"
+  },
+  "kalliasseri": {
+    "panchayat_raw": "Kalliasseri",
+    "block": "Kalliasseri",
+    "district": "Kannur"
+  },
+  "kannapuram": {
+    "panchayat_raw": "Kannapuram",
+    "block": "Kalliasseri",
+    "district": "Kannur"
+  },
+  "narath": {
+    "panchayat_raw": "Narath",
+    "block": "Kalliasseri",
+    "district": "Kannur"
+  },
+  "pattuvam": {
+    "panchayat_raw": "Pattuvam",
+    "block": "Thalipparamba",
+    "district": "Kannur"
+  },
+  "chengalayi": {
+    "panchayat_raw": "Chengalayi",
+    "block": "Thalipparamba",
+    "district": "Kannur"
+  },
+  "kurumathur": {
+    "panchayat_raw": "Kurumathur",
+    "block": "Thalipparamba",
+    "district": "Kannur"
+  },
+  "chapparapadava": {
+    "panchayat_raw": "Chapparapadava",
+    "block": "Thalipparamba",
+    "district": "Kannur"
+  },
+  "naduvil": {
+    "panchayat_raw": "Naduvil",
+    "block": "Thalipparamba",
+    "district": "Kannur"
+  },
+  "udayagiri": {
+    "panchayat_raw": "Udayagiri",
+    "block": "Thalipparamba",
+    "district": "Kannur"
+  },
+  "kadannappally panapuzha": {
+    "panchayat_raw": "Kadannappally Panapuzha",
+    "block": "Thalipparamba",
+    "district": "Kannur"
+  },
+  "eruvessy": {
+    "panchayat_raw": "Eruvessy",
+    "block": "Irikkur",
+    "district": "Kannur"
+  },
+  "irikkur": {
+    "panchayat_raw": "Irikkur",
+    "block": "Irikkur",
+    "district": "Kannur"
+  },
+  "malappattam": {
+    "panchayat_raw": "Malappattam",
+    "block": "Irikkur",
+    "district": "Kannur"
+  },
+  "payyavoor": {
+    "panchayat_raw": "Payyavoor",
+    "block": "Irikkur",
+    "district": "Kannur"
+  },
+  "kuttiattoor": {
+    "panchayat_raw": "Kuttiattoor",
+    "block": "Irikkur",
+    "district": "Kannur"
+  },
+  "mayyil": {
+    "panchayat_raw": "Mayyil",
+    "block": "Irikkur",
+    "district": "Kannur"
+  },
+  "padiyoor": {
+    "panchayat_raw": "Padiyoor",
+    "block": "Irikkur",
+    "district": "Kannur"
+  },
+  "ulikkal": {
+    "panchayat_raw": "Ulikkal",
+    "block": "Irikkur",
+    "district": "Kannur"
+  },
+  "chirakkal": {
+    "panchayat_raw": "Chirakkal",
+    "block": "Kannur",
+    "district": "Kannur"
+  },
+  "valapattanam": {
+    "panchayat_raw": "Valapattanam",
+    "block": "Kannur",
+    "district": "Kannur"
+  },
+  "azhikode": {
+    "panchayat_raw": "Azhikode",
+    "block": "Kannur",
+    "district": "Kannur"
+  },
+  "pappinisseri": {
+    "panchayat_raw": "Pappinisseri",
+    "block": "Kannur",
+    "district": "Kannur"
+  },
+  "kadambur": {
+    "panchayat_raw": "Kadambur",
+    "block": "Edakkad",
+    "district": "Kannur"
+  },
+  "chembilode": {
+    "panchayat_raw": "Chembilode",
+    "block": "Edakkad",
+    "district": "Kannur"
+  },
+  "munderi": {
+    "panchayat_raw": "Munderi",
+    "block": "Edakkad",
+    "district": "Kannur"
+  },
+  "peralassery": {
+    "panchayat_raw": "Peralassery",
+    "block": "Edakkad",
+    "district": "Kannur"
+  },
+  "kolachery": {
+    "panchayat_raw": "Kolachery",
+    "block": "Edakkad",
+    "district": "Kannur"
+  },
+  "dharmadam": {
+    "panchayat_raw": "Dharmadam",
+    "block": "Thalassery",
+    "district": "Kannur"
+  },
+  "eranholi": {
+    "panchayat_raw": "Eranholi",
+    "block": "Thalassery",
+    "district": "Kannur"
+  },
+  "pinarayi": {
+    "panchayat_raw": "Pinarayi",
+    "block": "Thalassery",
+    "district": "Kannur"
+  },
+  "new mahe": {
+    "panchayat_raw": "New Mahe",
+    "block": "Thalassery",
+    "district": "Kannur"
+  },
+  "muzhappilangad": {
+    "panchayat_raw": "Muzhappilangad",
+    "block": "Thalassery",
+    "district": "Kannur"
+  },
+  "anjarakandy": {
+    "panchayat_raw": "Anjarakandy",
+    "block": "Thalassery",
+    "district": "Kannur"
+  },
+  "vengad": {
+    "panchayat_raw": "Vengad",
+    "block": "Thalassery",
+    "district": "Kannur"
+  },
+  "kadirur": {
+    "panchayat_raw": "Kadirur",
+    "block": "Panoor",
+    "district": "Kannur"
+  },
+  "chokli": {
+    "panchayat_raw": "Chokli",
+    "block": "Panoor",
+    "district": "Kannur"
+  },
+  "mokeri": {
+    "panchayat_raw": "Mokeri",
+    "block": "Panoor",
+    "district": "Kannur"
+  },
+  "panniyannur": {
+    "panchayat_raw": "Panniyannur",
+    "block": "Panoor",
+    "district": "Kannur"
+  },
+  "triprangottoor": {
+    "panchayat_raw": "Triprangottoor",
+    "block": "Kuthuparamba",
+    "district": "Kannur"
+  },
+  "chittariparamba": {
+    "panchayat_raw": "Chittariparamba",
+    "block": "Kuthuparamba",
+    "district": "Kannur"
+  },
+  "kunnothuparamba": {
+    "panchayat_raw": "Kunnothuparamba",
+    "block": "Kuthuparamba",
+    "district": "Kannur"
+  },
+  "mangattidam": {
+    "panchayat_raw": "Mangattidam",
+    "block": "Kuthuparamba",
+    "district": "Kannur"
+  },
+  "pattiam": {
+    "panchayat_raw": "Pattiam",
+    "block": "Kuthuparamba",
+    "district": "Kannur"
+  },
+  "kottayam": {
+    "panchayat_raw": "Kottayam",
+    "block": "Municipality",
+    "district": "Kottayam"
+  },
+  "aralam": {
+    "panchayat_raw": "Aralam",
+    "block": "Iritty",
+    "district": "Kannur"
+  },
+  "ayyankunnu": {
+    "panchayat_raw": "Ayyankunnu",
+    "block": "Iritty",
+    "district": "Kannur"
+  },
+  "keezhallur": {
+    "panchayat_raw": "Keezhallur",
+    "block": "Iritty",
+    "district": "Kannur"
+  },
+  "thillankery": {
+    "panchayat_raw": "Thillankery",
+    "block": "Iritty",
+    "district": "Kannur"
+  },
+  "koodali": {
+    "panchayat_raw": "Koodali",
+    "block": "Iritty",
+    "district": "Kannur"
+  },
+  "payam": {
+    "panchayat_raw": "Payam",
+    "block": "Iritty",
+    "district": "Kannur"
+  },
+  "kanichar": {
+    "panchayat_raw": "Kanichar",
+    "block": "Peravoor",
+    "district": "Kannur"
+  },
+  "kelakam": {
+    "panchayat_raw": "Kelakam",
+    "block": "Peravoor",
+    "district": "Kannur"
+  },
+  "kottiyoor": {
+    "panchayat_raw": "Kottiyoor",
+    "block": "Peravoor",
+    "district": "Kannur"
+  },
+  "muzhakkunnu": {
+    "panchayat_raw": "Muzhakkunnu",
+    "block": "Peravoor",
+    "district": "Kannur"
+  },
+  "kolayad": {
+    "panchayat_raw": "Kolayad",
+    "block": "Peravoor",
+    "district": "Kannur"
+  },
+  "malur": {
+    "panchayat_raw": "Malur",
+    "block": "Peravoor",
+    "district": "Kannur"
+  },
+  "peravoor": {
+    "panchayat_raw": "Peravoor",
+    "block": "Peravoor",
+    "district": "Kannur"
+  },
+  "mangalpady": {
+    "panchayat_raw": "Mangalpady",
+    "block": "Manjesaram",
+    "district": "Kasaragod"
+  },
+  "vorkady": {
+    "panchayat_raw": "Vorkady",
+    "block": "Manjesaram",
+    "district": "Kasaragod"
+  },
+  "puthige": {
+    "panchayat_raw": "Puthige",
+    "block": "Manjesaram",
+    "district": "Kasaragod"
+  },
+  "meenja": {
+    "panchayat_raw": "Meenja",
+    "block": "Manjesaram",
+    "district": "Kasaragod"
+  },
+  "manjeshwar": {
+    "panchayat_raw": "Manjeshwar",
+    "block": "Manjesaram",
+    "district": "Kasaragod"
+  },
+  "paivalike": {
+    "panchayat_raw": "Paivalike",
+    "block": "Manjesaram",
+    "district": "Kasaragod"
+  },
+  "enmakaje": {
+    "panchayat_raw": "Enmakaje",
+    "block": "Manjesaram",
+    "district": "Kasaragod"
+  },
+  "bellur": {
+    "panchayat_raw": "Bellur",
+    "block": "Karadka",
+    "district": "Kasaragod"
+  },
+  "kumbadaje": {
+    "panchayat_raw": "Kumbadaje",
+    "block": "Karadka",
+    "district": "Kasaragod"
+  },
+  "muliyar": {
+    "panchayat_raw": "Muliyar",
+    "block": "Karadka",
+    "district": "Kasaragod"
+  },
+  "karadka": {
+    "panchayat_raw": "Karadka",
+    "block": "Karadka",
+    "district": "Kasaragod"
+  },
+  "delampady": {
+    "panchayat_raw": "Delampady",
+    "block": "Karadka",
+    "district": "Kasaragod"
+  },
+  "bedadka": {
+    "panchayat_raw": "Bedadka",
+    "block": "Karadka",
+    "district": "Kasaragod"
+  },
+  "kuttikol": {
+    "panchayat_raw": "Kuttikol",
+    "block": "Karadka",
+    "district": "Kasaragod"
+  },
+  "chengala": {
+    "panchayat_raw": "Chengala",
+    "block": "Kasaragod",
+    "district": "Kasaragod"
+  },
+  "chemnad": {
+    "panchayat_raw": "Chemnad",
+    "block": "Kasaragod",
+    "district": "Kasaragod"
+  },
+  "madhur": {
+    "panchayat_raw": "Madhur",
+    "block": "Kasaragod",
+    "district": "Kasaragod"
+  },
+  "mogral puthur": {
+    "panchayat_raw": "Mogral Puthur",
+    "block": "Kasaragod",
+    "district": "Kasaragod"
+  },
+  "badiadka": {
+    "panchayat_raw": "Badiadka",
+    "block": "Kasaragod",
+    "district": "Kasaragod"
+  },
+  "kumbla": {
+    "panchayat_raw": "Kumbla",
+    "block": "Kasaragod",
+    "district": "Kasaragod"
+  },
+  "udma": {
+    "panchayat_raw": "Udma",
+    "block": "Kanhangad",
+    "district": "Kasaragod"
+  },
+  "ajanur": {
+    "panchayat_raw": "Ajanur",
+    "block": "Kanhangad",
+    "district": "Kasaragod"
+  },
+  "madikai": {
+    "panchayat_raw": "Madikai",
+    "block": "Kanhangad",
+    "district": "Kasaragod"
+  },
+  "pallikere": {
+    "panchayat_raw": "Pallikere",
+    "block": "Kanhangad",
+    "district": "Kasaragod"
+  },
+  "pullur periya": {
+    "panchayat_raw": "Pullur Periya",
+    "block": "Kanhangad",
+    "district": "Kasaragod"
+  },
+  "balal": {
+    "panchayat_raw": "Balal",
+    "block": "Parappa",
+    "district": "Kasaragod"
+  },
+  "kodom belur": {
+    "panchayat_raw": "Kodom Belur",
+    "block": "Parappa",
+    "district": "Kasaragod"
+  },
+  "panathady": {
+    "panchayat_raw": "Panathady",
+    "block": "Parappa",
+    "district": "Kasaragod"
+  },
+  "kallar": {
+    "panchayat_raw": "Kallar",
+    "block": "Parappa",
+    "district": "Kasaragod"
+  },
+  "east eleri": {
+    "panchayat_raw": "East Eleri",
+    "block": "Parappa",
+    "district": "Kasaragod"
+  },
+  "west eleri": {
+    "panchayat_raw": "West Eleri",
+    "block": "Parappa",
+    "district": "Kasaragod"
+  },
+  "kinanoor - karinthalam": {
+    "panchayat_raw": "Kinanoor - Karinthalam",
+    "block": "Parappa",
+    "district": "Kasaragod"
+  },
+  "cheruvathur": {
+    "panchayat_raw": "Cheruvathur",
+    "block": "Nileswaram",
+    "district": "Kasaragod"
+  },
+  "kayyur cheemeni": {
+    "panchayat_raw": "Kayyur Cheemeni",
+    "block": "Nileswaram",
+    "district": "Kasaragod"
+  },
+  "pilicode": {
+    "panchayat_raw": "Pilicode",
+    "block": "Nileswaram",
+    "district": "Kasaragod"
+  },
+  "trikarpur": {
+    "panchayat_raw": "Trikarpur",
+    "block": "Nileswaram",
+    "district": "Kasaragod"
+  },
+  "valiyaparamba": {
+    "panchayat_raw": "Valiyaparamba",
+    "block": "Nileswaram",
+    "district": "Kasaragod"
+  },
+  "padne": {
+    "panchayat_raw": "Padne",
+    "block": "Nileswaram",
+    "district": "Kasaragod"
+  },
+  "sulthan": {
+    "panchayat_raw": "Sulthan",
+    "block": "Bathery",
+    "district": "Wayanad"
+  },
+  "thiruvananthapuram municipal": {
+    "panchayat_raw": "Thiruvananthapuram Municipal",
+    "block": "Corporation",
+    "district": "Thiruvananthapuram"
+  },
+  "kollam municipal": {
+    "panchayat_raw": "Kollam Municipal",
+    "block": "Corporation",
+    "district": "Kollam"
+  },
+  "kochi municipal": {
+    "panchayat_raw": "Kochi Municipal",
+    "block": "Corporation",
+    "district": "Ernakulam"
+  },
+  "thrissur municipal": {
+    "panchayat_raw": "Thrissur Municipal",
+    "block": "Corporation",
+    "district": "Thrissur"
+  },
+  "kozhikode municipal": {
+    "panchayat_raw": "Kozhikode Municipal",
+    "block": "Corporation",
+    "district": "Kozhikode"
+  },
+  "kannur municipal": {
+    "panchayat_raw": "Kannur Municipal",
+    "block": "Corporation",
+    "district": "Kannur"
+  },
+  "alappuzha": {
+    "panchayat_raw": "Alappuzha",
+    "block": "Municipality",
+    "district": "Alappuzha"
+  },
+  "chengannur": {
+    "panchayat_raw": "Chengannur",
+    "block": "Municipality",
+    "district": "Alappuzha"
+  },
+  "cherthala": {
+    "panchayat_raw": "Cherthala",
+    "block": "Municipality",
+    "district": "Alappuzha"
+  },
+  "haripad": {
+    "panchayat_raw": "Haripad",
+    "block": "Municipality",
+    "district": "Alappuzha"
+  },
+  "kayamkulam": {
+    "panchayat_raw": "Kayamkulam",
+    "block": "Municipality",
+    "district": "Alappuzha"
+  },
+  "mavelikkara": {
+    "panchayat_raw": "Mavelikkara",
+    "block": "Municipality",
+    "district": "Alappuzha"
+  },
+  "aluva": {
+    "panchayat_raw": "Aluva",
+    "block": "Municipality",
+    "district": "Ernakulam"
+  },
+  "angamaly": {
+    "panchayat_raw": "Angamaly",
+    "block": "Municipality",
+    "district": "Ernakulam"
+  },
+  "eloor": {
+    "panchayat_raw": "Eloor",
+    "block": "Municipality",
+    "district": "Ernakulam"
+  },
+  "kalamassery": {
+    "panchayat_raw": "Kalamassery",
+    "block": "Municipality",
+    "district": "Ernakulam"
+  },
+  "koothattukulam": {
+    "panchayat_raw": "Koothattukulam",
+    "block": "Municipality",
+    "district": "Ernakulam"
+  },
+  "kothamangalam": {
+    "panchayat_raw": "Kothamangalam",
+    "block": "Municipality",
+    "district": "Ernakulam"
+  },
+  "maradu": {
+    "panchayat_raw": "Maradu",
+    "block": "Municipality",
+    "district": "Ernakulam"
+  },
+  "muvattupuzha": {
+    "panchayat_raw": "Muvattupuzha",
+    "block": "Municipality",
+    "district": "Ernakulam"
+  },
+  "paravur": {
+    "panchayat_raw": "Paravur",
+    "block": "Municipality",
+    "district": "Ernakulam"
+  },
+  "perumbavoor": {
+    "panchayat_raw": "Perumbavoor",
+    "block": "Municipality",
+    "district": "Ernakulam"
+  },
+  "piravom": {
+    "panchayat_raw": "Piravom",
+    "block": "Municipality",
+    "district": "Ernakulam"
+  },
+  "thrikkakara": {
+    "panchayat_raw": "Thrikkakara",
+    "block": "Municipality",
+    "district": "Ernakulam"
+  },
+  "thrippunithura": {
+    "panchayat_raw": "Thrippunithura",
+    "block": "Municipality",
+    "district": "Ernakulam"
+  },
+  "thodupuzha": {
+    "panchayat_raw": "Thodupuzha",
+    "block": "Municipality",
+    "district": "idukki"
+  },
+  "anthoor": {
+    "panchayat_raw": "Anthoor",
+    "block": "Municipality",
+    "district": "Kannur"
+  },
+  "iritty": {
+    "panchayat_raw": "Iritty",
+    "block": "Municipality",
+    "district": "Kannur"
+  },
+  "koothuparamba": {
+    "panchayat_raw": "Koothuparamba",
+    "block": "Municipality",
+    "district": "Kannur"
+  },
+  "mattannur": {
+    "panchayat_raw": "Mattannur",
+    "block": "Municipality",
+    "district": "Kannur"
+  },
+  "panoor": {
+    "panchayat_raw": "Panoor",
+    "block": "Municipality",
+    "district": "Kannur"
+  },
+  "payyannur": {
+    "panchayat_raw": "Payyannur",
+    "block": "Municipality",
+    "district": "Kannur"
+  },
+  "sreekandapuram": {
+    "panchayat_raw": "Sreekandapuram",
+    "block": "Municipality",
+    "district": "Kannur"
+  },
+  "taliparamba": {
+    "panchayat_raw": "Taliparamba",
+    "block": "Municipality",
+    "district": "Kannur"
+  },
+  "thalassery": {
+    "panchayat_raw": "Thalassery",
+    "block": "Municipality",
+    "district": "Kannur"
+  },
+  "kanhangad": {
+    "panchayat_raw": "Kanhangad",
+    "block": "Municipality",
+    "district": "Kasaragod"
+  },
+  "kasaragod": {
+    "panchayat_raw": "Kasaragod",
+    "block": "Municipality",
+    "district": "Kasaragod"
+  },
+  "nileshwar": {
+    "panchayat_raw": "Nileshwar",
+    "block": "Municipality",
+    "district": "Kasaragod"
+  },
+  "karunagappally": {
+    "panchayat_raw": "Karunagappally",
+    "block": "Municipality",
+    "district": "Kollam"
+  },
+  "kottarakara": {
+    "panchayat_raw": "Kottarakara",
+    "block": "Municipality",
+    "district": "Kollam"
+  },
+  "paravoor": {
+    "panchayat_raw": "Paravoor",
+    "block": "Municipality",
+    "district": "Kollam"
+  },
+  "punalur": {
+    "panchayat_raw": "Punalur",
+    "block": "Municipality",
+    "district": "Kollam"
+  },
+  "changanassery": {
+    "panchayat_raw": "Changanassery",
+    "block": "Municipality",
+    "district": "Kottayam"
+  },
+  "erattupetta": {
+    "panchayat_raw": "Erattupetta",
+    "block": "Municipality",
+    "district": "Kottayam"
+  },
+  "ettumanoor": {
+    "panchayat_raw": "Ettumanoor",
+    "block": "Municipality",
+    "district": "Kottayam"
+  },
+  "palai": {
+    "panchayat_raw": "Palai",
+    "block": "Municipality",
+    "district": "Kottayam"
+  },
+  "vaikom": {
+    "panchayat_raw": "Vaikom",
+    "block": "Municipality",
+    "district": "Kottayam"
+  },
+  "feroke": {
+    "panchayat_raw": "Feroke",
+    "block": "Municipality",
+    "district": "Kozhikkode"
+  },
+  "koduvally": {
+    "panchayat_raw": "Koduvally",
+    "block": "Municipality",
+    "district": "Kozhikkode"
+  },
+  "koyilandy": {
+    "panchayat_raw": "koyilandy",
+    "block": "Municipality",
+    "district": "Kozhikkode"
+  },
+  "mukkam": {
+    "panchayat_raw": "Mukkam",
+    "block": "Municipality",
+    "district": "Kozhikkode"
+  },
+  "payyoli": {
+    "panchayat_raw": "Payyoli",
+    "block": "Municipality",
+    "district": "Kozhikkode"
+  },
+  "ramanattukara": {
+    "panchayat_raw": "Ramanattukara",
+    "block": "Municipality",
+    "district": "Kozhikkode"
+  },
+  "vatakara": {
+    "panchayat_raw": "Vatakara",
+    "block": "Municipality",
+    "district": "Kozhikkode"
+  },
+  "kondotty": {
+    "panchayat_raw": "Kondotty",
+    "block": "Municipality",
+    "district": "Malappuram"
+  },
+  "kottakkal": {
+    "panchayat_raw": "Kottakkal",
+    "block": "Municipality",
+    "district": "Malappuram"
+  },
+  "malappuram": {
+    "panchayat_raw": "Malappuram",
+    "block": "Municipality",
+    "district": "Malappuram"
+  },
+  "manjeri": {
+    "panchayat_raw": "Manjeri",
+    "block": "Municipality",
+    "district": "Malappuram"
+  },
+  "nilambur": {
+    "panchayat_raw": "Nilambur",
+    "block": "Municipality",
+    "district": "Malappuram"
+  },
+  "parappanangadi": {
+    "panchayat_raw": "Parappanangadi",
+    "block": "Municipality",
+    "district": "Malappuram"
+  },
+  "perinthalmanna": {
+    "panchayat_raw": "Perinthalmanna",
+    "block": "Municipality",
+    "district": "Malappuram"
+  },
+  "ponnani": {
+    "panchayat_raw": "Ponnani",
+    "block": "Municipality",
+    "district": "Malappuram"
+  },
+  "tanur": {
+    "panchayat_raw": "Tanur",
+    "block": "Municipality",
+    "district": "Malappuram"
+  },
+  "tirur": {
+    "panchayat_raw": "Tirur",
+    "block": "Municipality",
+    "district": "Malappuram"
+  },
+  "tirurangadi": {
+    "panchayat_raw": "Tirurangadi",
+    "block": "Municipality",
+    "district": "Malappuram"
+  },
+  "valanchery": {
+    "panchayat_raw": "Valanchery",
+    "block": "Municipality",
+    "district": "Malappuram"
+  },
+  "cherpulassery": {
+    "panchayat_raw": "Cherpulassery",
+    "block": "Municipality",
+    "district": "Palakkad"
+  },
+  "mannarkad": {
+    "panchayat_raw": "Mannarkad",
+    "block": "Municipality",
+    "district": "Palakkad"
+  },
+  "ottappalam": {
+    "panchayat_raw": "Ottappalam",
+    "block": "Municipality",
+    "district": "Palakkad"
+  },
+  "palakkad": {
+    "panchayat_raw": "Palakkad",
+    "block": "Municipality",
+    "district": "Palakkad"
+  },
+  "pattambi": {
+    "panchayat_raw": "Pattambi",
+    "block": "Municipality",
+    "district": "Palakkad"
+  },
+  "shoranur": {
+    "panchayat_raw": "Shoranur",
+    "block": "Municipality",
+    "district": "Palakkad"
+  },
+  "adoor": {
+    "panchayat_raw": "Adoor",
+    "block": "Municipality",
+    "district": "Pathanamthitta"
+  },
+  "pandalam": {
+    "panchayat_raw": "Pandalam",
+    "block": "Municipality",
+    "district": "Pathanamthitta"
+  },
+  "pathanamthitta": {
+    "panchayat_raw": "Pathanamthitta",
+    "block": "Municipality",
+    "district": "Pathanamthitta"
+  },
+  "thiruvalla": {
+    "panchayat_raw": "Thiruvalla",
+    "block": "Municipality",
+    "district": "Pathanamthitta"
+  },
+  "attingal": {
+    "panchayat_raw": "Attingal",
+    "block": "Municipality",
+    "district": "Thiruvananthapuram"
+  },
+  "nedumangad": {
+    "panchayat_raw": "Nedumangad",
+    "block": "Municipality",
+    "district": "Thiruvananthapuram"
+  },
+  "neyyattinkara": {
+    "panchayat_raw": "Neyyattinkara",
+    "block": "Municipality",
+    "district": "Thiruvananthapuram"
+  },
+  "varkala": {
+    "panchayat_raw": "Varkala",
+    "block": "Municipality",
+    "district": "Thiruvananthapuram"
+  },
+  "chalakudy": {
+    "panchayat_raw": "Chalakudy",
+    "block": "Municipality",
+    "district": "Thrissur"
+  },
+  "chavakkad": {
+    "panchayat_raw": "Chavakkad",
+    "block": "Municipality",
+    "district": "Thrissur"
+  },
+  "guruvayoor": {
+    "panchayat_raw": "Guruvayoor",
+    "block": "Municipality",
+    "district": "Thrissur"
+  },
+  "irinjalakuda": {
+    "panchayat_raw": "Irinjalakuda",
+    "block": "Municipality",
+    "district": "Thrissur"
+  },
+  "kodungallur": {
+    "panchayat_raw": "Kodungallur",
+    "block": "Municipality",
+    "district": "Thrissur"
+  },
+  "kunnamkulam": {
+    "panchayat_raw": "Kunnamkulam",
+    "block": "Municipality",
+    "district": "Thrissur"
+  },
+  "wadakanchery": {
+    "panchayat_raw": "Wadakanchery",
+    "block": "Municipality",
+    "district": "Thrissur"
+  },
+  "kalpetta": {
+    "panchayat_raw": "Kalpetta",
+    "block": "Municipality",
+    "district": "Wayanad"
+  },
+  "kattappana": {
+    "panchayat_raw": "Kattappana",
+    "block": "Municipality",
+    "district": "Wayanad"
+  },
+  "mananthavady": {
+    "panchayat_raw": "Mananthavady",
+    "block": "Municipality",
+    "district": "Wayanad"
+  },
+  "sulthan bathery": {
+    "panchayat_raw": "Sulthan Bathery",
+    "block": "Municipality",
+    "district": "Wayanad"
+  }
+}

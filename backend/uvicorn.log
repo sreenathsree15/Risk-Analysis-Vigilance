@@ -1,0 +1,27 @@
+INFO:     127.0.0.1:62028 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64242 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50612 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50612 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58394 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58394 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60848 - "OPTIONS /api/auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60848 - "POST /api/auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60848 - "OPTIONS /api/cases HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61336 - "OPTIONS /api/cases HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60848 - "GET /api/cases HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61336 - "GET /api/cases HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61336 - "GET /api/cases HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60848 - "GET /api/cases HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57869 - "GET /api/cases HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57869 - "GET /api/cases HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53598 - "GET /api/cases HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49969 - "GET /api/cases HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51519 - "GET /api/cases HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60846 - "GET /api/cases HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/cases HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49695 - "GET /api/cases HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/cases HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49695 - "GET /api/cases HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61535 - "GET /api/cases HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59020 - "GET /api/cases HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61808 - "GET /api/cases HTTP/1.1" 200 OK

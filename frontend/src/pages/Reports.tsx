@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react"
 import { BarChart, Bar, LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Legend } from "recharts"
-import { Download, FileSpreadsheet } from "lucide-react"
+import { FileSpreadsheet } from "lucide-react"
 
 export default function Reports() {
   const [allCases, setAllCases] = useState<any[]>([])
@@ -81,12 +81,10 @@ export default function Reports() {
             <div>
               <label className="block text-sm font-medium text-slate-700 mb-1">Department</label>
               <select className="w-full border border-slate-300 rounded-md p-2 text-sm" value={department} onChange={e => setDepartment(e.target.value)}>
-                <option value="All">All</option>
-                <option value="LSGD">LSGD</option>
-                <option value="Health">Health</option>
-                <option value="PWD">PWD</option>
-                <option value="Education">Education</option>
-                <option value="Others">Others</option>
+                <option value="All">All Departments</option>
+                {Array.from(new Set(allCases.map(c => c.department))).sort().map(d => (
+                  <option key={d} value={d}>{d}</option>
+                ))}
               </select>
             </div>
             

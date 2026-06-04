@@ -1,6 +1,7 @@
 import { Outlet } from "react-router-dom"
 import Sidebar from "./Sidebar"
-import { Bell, User } from "lucide-react"
+import NotificationsDropdown from "./NotificationsDropdown"
+import UserMenu from "./UserMenu"
 
 export default function Layout() {
   return (
@@ -12,14 +13,9 @@ export default function Layout() {
           <h1 className="text-xl font-semibold text-slate-800">
             Vigilance Monitoring System
           </h1>
-          <div className="flex items-center space-x-4 text-slate-500">
-            <button className="hover:text-slate-700">
-              <Bell className="h-5 w-5" />
-            </button>
-            <div className="flex items-center space-x-2 text-sm font-medium text-slate-700 border-l pl-4 ml-2">
-              <User className="h-5 w-5 rounded-full bg-slate-100 p-0.5" />
-              <span>Admin Officer</span>
-            </div>
+          <div className="flex items-center space-x-2 text-slate-500">
+            <NotificationsDropdown />
+            <UserMenu />
           </div>
         </header>
 

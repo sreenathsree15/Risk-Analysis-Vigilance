@@ -1,9 +1,9 @@
 import { useState, useEffect } from "react"
-import { MapContainer, TileLayer, CircleMarker, Popup, GeoJSON } from "react-leaflet"
+import { MapContainer } from "react-leaflet"
 import "leaflet/dist/leaflet.css"
 import { useFilterStore } from "../store/useFilterStore"
 import { ShieldAlert, CheckCircle2, Clock } from "lucide-react"
-import { Link } from "react-router-dom"
+import SeverityMapLayer, { MapSeverityLegend } from "../components/map/SeverityMapLayer"
 
 export default function MapView() {
   const [allCases, setAllCases] = useState<any[]>([])
@@ -33,101 +33,79 @@ export default function MapView() {
     setFilteredCases(result)
   }, [allCases, filters])
 
-  const getSeverityColor = (severity: string) => {
-    switch(severity) {
-      case 'High': return '#ef4444'
-      case 'Medium': return '#f59e0b'
-      case 'Low': return '#10b981'
-      default: return '#3b82f6'
-    }
-  }
-
   // Summary counts for analytics strip
   const total = filteredCases.length
   const high = filteredCases.filter(c => c.severity === "High").length
   const pending = filteredCases.filter(c => c.status === "Pending").length
   const resolved = filteredCases.filter(c => c.status === "Resolved").length
 
+  // Filter panchayats based on the selected district
+  const availablePanchayats = Array.from(
+    new Set(
+      allCases
+        .filter(c => filters.district === 'All' || c.district === filters.district)
+        .map(c => c.panchayat)
+    )
+  ).sort() as string[];
+
   return (
     <div className="h-[calc(100vh-6rem)] flex flex-col space-y-4">
       {/* Top Filter Bar */}
-      <div className="bg-white p-4 rounded-xl border border-slate-200 shadow-sm flex flex-wrap gap-4 items-center">
-        <FilterSelect 
-          label="District" 
-          value={filters.district} 
-          onChange={val => filters.setFilter('district', val)} 
-          options={["All", ...Array.from(new Set(allCases.map(c => c.district))).sort() as string[]]} 
-        />
-        <FilterSelect 
-          label="Panchayat" 
-          value={filters.panchayat} 
-          onChange={val => filters.setFilter('panchayat', val)} 
-          options={["All", ...Array.from(new Set(allCases.map(c => c.panchayat))).sort() as string[]]} 
-        />
-        <FilterSelect label="Department" value={filters.department} onChange={val => filters.setFilter('department', val)} options={["All", "LSGD", "Health", "PWD", "Education", "Others"]} />
-        <FilterSelect label="Severity" value={filters.severity} onChange={val => filters.setFilter('severity', val)} options={["All", "High", "Medium", "Low"]} />
-        <FilterSelect label="Status" value={filters.status} onChange={val => filters.setFilter('status', val)} options={["All", "Pending", "In Progress", "Resolved"]} />
-        
-        <div className="flex-1"></div>
-        <button onClick={filters.resetFilters} className="px-4 py-2 bg-slate-100 text-slate-700 text-sm font-medium rounded-md hover:bg-slate-200 transition-colors">
-          Reset Filters
-        </button>
+      <div className="bg-white p-3 rounded-xl border border-slate-200 shadow-sm flex items-center">
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3 w-full">
+          <FilterSelect 
+            label="District" 
+            value={filters.district} 
+            onChange={val => {
+              filters.setFilter('district', val)
+              // If the selected panchayat is not in the new district, reset it to 'All'
+              if (val !== 'All' && filters.panchayat !== 'All') {
+                const belongsToDistrict = allCases.some(c => c.district === val && c.panchayat === filters.panchayat)
+                if (!belongsToDistrict) {
+                  filters.setFilter('panchayat', 'All')
+                }
+              }
+            }} 
+            options={["All", ...Array.from(new Set(allCases.map(c => c.district))).sort() as string[]]} 
+          />
+          <FilterSelect 
+            label="Panchayat" 
+            value={filters.panchayat} 
+            onChange={val => filters.setFilter('panchayat', val)} 
+            options={["All", ...availablePanchayats]} 
+          />
+          <FilterSelect 
+            label="Department" 
+            value={filters.department} 
+            onChange={val => filters.setFilter('department', val)} 
+            options={["All", ...Array.from(new Set(allCases.map(c => c.department))).sort() as string[]]} 
+          />
+          <FilterSelect label="Severity" value={filters.severity} onChange={val => filters.setFilter('severity', val)} options={["All", "High", "Medium", "Low"]} />
+          <FilterSelect label="Status" value={filters.status} onChange={val => filters.setFilter('status', val)} options={["All", "Pending", "In Progress", "Resolved"]} />
+          
+          <button 
+            onClick={filters.resetFilters} 
+            className="h-10 w-full bg-slate-100 text-slate-700 text-sm font-medium rounded-md hover:bg-slate-200 transition-colors border border-slate-200 flex items-center justify-center"
+          >
+            Reset Filters
+          </button>
+        </div>
       </div>
 
-      {/* Map Container */}
-      <div className="flex-1 rounded-xl overflow-hidden border border-slate-200 shadow-sm relative z-0 bg-[#e2e8f0]">
-        <MapContainer center={[10.5, 76.5]} zoom={7} style={{ height: '100%', width: '100%', backgroundColor: '#f8f9fa' }}>
-          
-          {/* GeoJSON Base */}
-          {geoData && (
-            <GeoJSON 
-              data={geoData} 
-              style={{
-                fillColor: '#cbd5e1',
-                fillOpacity: 0.4,
-                color: '#94a3b8',
-                weight: 1
-              }}
-            />
-          )}
-
-          {/* Labels Only Layer - This provides location markings without the "grid" background */}
-          <TileLayer
-            url="https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png"
-            attribution='&copy; <a href="https://carto.com/attributions">CARTO</a>'
+      {/* Map Container — choropleth polygons (QGIS-style), filters unchanged */}
+      <div className="flex-1 rounded-xl overflow-hidden border border-slate-200 shadow-sm relative z-0 bg-white">
+        <MapContainer
+          center={[10.5, 76.5]}
+          zoom={7}
+          style={{ height: "100%", width: "100%", background: "#ffffff" }}
+        >
+          <SeverityMapLayer
+            geoData={geoData}
+            filteredCases={filteredCases}
+            selectedDistrict={filters.district}
           />
-          
-          {filteredCases.map(c => (
-            <CircleMarker
-              key={c.caseId}
-              center={[c.latitude, c.longitude]}
-              radius={6}
-              fillColor={getSeverityColor(c.severity)}
-              fillOpacity={0.8}
-              color="#fff"
-              weight={1.5}
-            >
-              <Popup>
-                <div className="p-1">
-                  <h4 className="font-bold text-slate-800 border-b pb-2 mb-2">{c.caseId}</h4>
-                  <div className="space-y-1 text-sm text-slate-600">
-                    <p><span className="font-medium">Panchayat:</span> {c.panchayat} ({c.district})</p>
-                    <p><span className="font-medium">Department:</span> {c.department}</p>
-                    <p>
-                      <span className="font-medium">Severity: </span> 
-                      <span style={{color: getSeverityColor(c.severity)}} className="font-semibold">{c.severity}</span>
-                    </p>
-                    <p><span className="font-medium">Status:</span> {c.status}</p>
-                    <p><span className="font-medium">Date:</span> {c.date}</p>
-                  </div>
-                  <Link to="/cases" onClick={() => filters.setFilter('panchayat', c.panchayat)} className="mt-3 block text-center text-sm font-medium text-blue-600 hover:text-blue-800">
-                    View Details
-                  </Link>
-                </div>
-              </Popup>
-            </CircleMarker>
-          ))}
         </MapContainer>
+        <MapSeverityLegend />
       </div>
 
       {/* Analytics Strip */}
@@ -158,7 +136,7 @@ export default function MapView() {
 function FilterSelect({ label, options, value, onChange }: { label: string, options: string[], value: string, onChange: (val: string) => void }) {
   return (
     <select 
-      className="border border-slate-300 rounded-md px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 bg-white"
+      className="border border-slate-300 rounded-md px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 bg-white w-full h-10 truncate"
       value={value}
       onChange={(e) => onChange(e.target.value)}
     >
